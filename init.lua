@@ -233,6 +233,11 @@ function skipstartupframes.startplugin()
 
   -- Option menu event callback
   local menu_callback = function(index, event)
+    -- Add escape event to close menu
+    if event == 'back' then
+      return false
+    end
+
     menuSelection = index
 
     -- Blackout Screen Option
