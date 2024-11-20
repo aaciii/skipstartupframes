@@ -59,12 +59,9 @@ local save_options = function(options)
   options_file:close()
 end
 
-function skipstartupframes.startplugin()
-  local options = load_options()
-
-  -- Find the frames file
-  local frames_path = plugin_directory .. "/ssf.txt"
-  local frames_file = io.open(frames_path, "r")
+-- Load the frames file
+local load_frames = function()
+  local frames_file = io.open(plugin_directory .. "/ssf.txt", "r")
 
   -- Read in and parse the frames file
   local frames = {}
@@ -84,6 +81,33 @@ function skipstartupframes.startplugin()
     end
   end
 
+  return frames
+end
+
+-- Save frames file
+local function save_frames(frames)
+  -- Sort the table keys
+  local sortedKeys = {}
+  for n in pairs(frames) do
+    table.insert(sortedKeys, n)
+  end
+  table.sort(sortedKeys)
+
+  -- Prep the frame data for writing
+  local data = ""
+  for _,v in pairs(sortedKeys) do
+    data = data..v..","..frames[v].."\n"
+  end
+
+  -- Write the frame data to the file
+  local frames_file = io.open(plugin_directory .. "/ssf.txt", "w")
+  frames_file:write(data)
+  frames_file:close()
+end
+
+function skipstartupframes.startplugin()
+  local options = load_options()
+
   -- Initialize frame processing function to do nothing
   local process_frame = function() end
 
@@ -92,40 +116,55 @@ function skipstartupframes.startplugin()
     process_frame()
   end)
 
+  -- Load frames from ssf.txt when MAME launches
+  local frames = load_frames()
+
+  -- Variable to store frame target
+  local frameTarget = nil
+
+  -- Variable to store rom name
+  local rom = nil
+
   -- Run when MAME begins emulation
   local start = function()
-    local rom = emu.romname()
+    rom = emu.romname()
 
     -- If no rom is loaded, don't do anything
-    if rom == "___empty" then
+    if not rom or rom == "___empty" then
       return
     end
 
-    -- Fetch frame count for rom from ssf.txt
-    local frameTarget = frames[rom]
+    -- Load frames from ssf.txt when game loads
+    frames = load_frames()
 
-    -- If the rom was not found in SSF.txt...
-    if frameTarget == nil and not options.debug then
+    -- Check if frame target is already set after a game reset
+    if not frameTarget then
+      -- Find the frame target for the current rom
+      frameTarget = frames[rom]
 
-      -- If parent rom fallback is disabled, don't do anything
-      if not options.parentFallback then
-        return
-      end
+      -- If the rom was not found in SSF.txt...
+      if frameTarget == nil and not options.debug then
 
-      -- Look for parent ROM
-      local parent = emu.driver_find(rom).parent
+        -- If parent rom fallback is disabled, don't do anything
+        if not options.parentFallback then
+          return
+        end
 
-      -- No parent found, don't do anything
-      if parent == "0" then
-        return
-      end
+        -- Look for parent ROM
+        local parent = emu.driver_find(rom).parent
 
-      -- Fetch frame count for parent rom from ssf.txt
-      frameTarget = frames[parent]
+        -- No parent found, don't do anything
+        if parent == "0" then
+          return
+        end
 
-      -- No frame count found for parent rom, don't do anything
-      if frameTarget == nil then
-        return
+        -- Fetch frame count for parent rom from ssf.txt
+        frameTarget = frames[parent]
+
+        -- No frame count found for parent rom, don't do anything
+        if frameTarget == nil then
+          return
+        end
       end
     end
 
@@ -196,6 +235,16 @@ function skipstartupframes.startplugin()
   -- Run when MAME stops emulation
   local stop = function()
     process_frame = function() end
+
+    -- Update frames to ssf.txt
+    if rom and frameTarget then
+      frames[rom] = frameTarget
+      save_frames(frames)
+
+      -- Reset variables
+      rom = nil
+      frameTarget = nil
+    end
   end
 
   -- Option menu variables
@@ -205,12 +254,14 @@ function skipstartupframes.startplugin()
   local parentFallbackIndex
   local debugIndex
   local debugSlowMotionIndex
+  local frameTargetIndex
 
   -- Option menu creation/population
   local menu_populate = function()
     local result = {}
 
     table.insert(result, { 'Skip Startup Frames', '', 'off' })
+
     table.insert(result, { '---', '', '' })
 
     table.insert(result, { _p("plugin-skipstartupframes", "Black out screen during startup"), options.blackout and 'Yes' or 'No', 'lr' })
@@ -227,6 +278,11 @@ function skipstartupframes.startplugin()
 
     table.insert(result, { _p("plugin-skipstartupframes", "Slow Motion during Debug Mode"), options.debugSlowMotion and 'Yes' or 'No', 'lr' })
     debugSlowMotionIndex = #result
+
+    table.insert(result, { '---', '', '' })
+
+    table.insert(result, { _p("plugin-skipstartupframes", "Frame Target for " .. rom), frameTarget, 'lr' })
+    frameTargetIndex = #result
 
     return result, menuSelection
   end
@@ -277,6 +333,15 @@ function skipstartupframes.startplugin()
       if event == 'left' or event == 'right' then
         options.debugSlowMotion = not options.debugSlowMotion
         save_options(options)
+      end
+      return true
+
+    -- Adjust frame target for current game
+    elseif index == frameTargetIndex then
+      if event == 'left' then
+        frameTarget = frameTarget - 1
+      elseif event == 'right' then
+        frameTarget = frameTarget + 1
       end
       return true
 
