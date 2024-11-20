@@ -521,7 +521,7 @@ cybattlr,3052
 cyberbal,2710
 cyberlip,243
 cybots,67
-cybsled,2715
+cybsled,360
 cyclshtg,1205
 cyclwarr,447
 cyvern,528
@@ -676,7 +676,7 @@ dynwar,1087
 eaglshot,37
 earthjkr,112
 ebases,776
-ecofghtr,3656
+ecofghtr,1000
 edf,42
 edrandy,377
 eggor,899
@@ -1084,7 +1084,7 @@ idsoccer,260
 iemoto,614
 iganinju,935
 igmo,2430
-ikari,280
+ikari,350
 ikari3,1064
 ikki,42
 imago,0
@@ -1219,6 +1219,7 @@ kof99,243
 koikois2,1341
 koinomp,210
 konamigt,475
+konotako,535
 kopunch,368
 korinai,591
 korokoro,775
@@ -1533,7 +1534,7 @@ mslug2,243
 mslug3,243
 mslug4,243
 mslugx,243
-mspacman,290
+mspacman,294
 mspuzzle,53
 msword,708
 mtlchamp,1469
@@ -1680,6 +1681,7 @@ ojankohs,248
 ojankoy,2
 ojousan,605
 olibochu,1102
+omega,40
 omegaf,0
 omegrace,1201
 omotesnd,677
@@ -1853,11 +1855,12 @@ plotting,172
 plsmaswd,404
 plumppop,556
 plusalph,150
+plygonet,1710
 pnickj,351
 poitto,225
 pokrdice,336
 polaris,1244
-polepos,370
+polepos,372
 polepos2,370
 policetr,2387
 pollux,3152
@@ -1892,7 +1895,7 @@ profpac,1035
 progear,940
 progress,329
 promutrv,7
-propcycl,0
+propcycl,20
 prosoccr,1023
 prosport,24
 prtytime,850
@@ -2240,6 +2243,7 @@ shocktro,243
 shogwarr,0
 shollow,83
 shootbul,821
+shootgal,52
 shootout,3
 shougi,0
 showdown,3856
@@ -2468,7 +2472,7 @@ strnskil,14
 strtdriv,0
 strtheat,0
 strvmstr,8
-stunrun,2810
+stunrun,180
 subroc3d,140
 subs,0
 sucasino,154
@@ -2799,7 +2803,7 @@ wallst,179
 wanted,264
 wardner,1751
 wargods,9856
-warlords,4399
+warlords,0
 warofbug,2
 warpwarp,765
 warrior,209
