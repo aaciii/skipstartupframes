@@ -147,6 +147,7 @@ function skipstartupframes.startplugin()
 
         -- If parent rom fallback is disabled, don't do anything
         if not options.parentFallback then
+          frameTarget = 0
           return
         end
 
@@ -155,6 +156,7 @@ function skipstartupframes.startplugin()
 
         -- No parent found, don't do anything
         if parent == "0" then
+          frameTarget = 0
           return
         end
 
@@ -163,9 +165,15 @@ function skipstartupframes.startplugin()
 
         -- No frame count found for parent rom, don't do anything
         if frameTarget == nil then
+          frameTarget = 0
           return
         end
       end
+    end
+
+    -- Ensure frame target is not negative
+    if frameTarget < 0 then
+      frameTarget = 0
     end
 
     -- Variable references
