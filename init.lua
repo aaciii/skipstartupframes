@@ -281,7 +281,7 @@ function skipstartupframes.startplugin()
 
     table.insert(result, { '---', '', '' })
 
-    table.insert(result, { _p("plugin-skipstartupframes", "Frame Target for " .. rom), frameTarget, 'lr' })
+    table.insert(result, { _p("plugin-skipstartupframes", "Frame Target for " .. rom), frameTarget, frameTarget > 0 and 'lr' or 'r' })
     frameTargetIndex = #result
 
     return result, menuSelection
