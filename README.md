@@ -25,10 +25,6 @@ The plugin temporarily unthrottles the framerate of a game at startup until a ce
 
    ![MAME plugin toggle menu](media/plugin-menu.jpg)
 
-## 2004 BYOAC Legacy
-
-Skip Startup Frames is not a new concept and not my idea. It was originally a MAME C++ patch that originated back in [early 2004](https://www.retroblast.com/archives/a-200403.html) by Alan Kamrowski II. It made it's way into some long-forgotten forks of MAME like NoNameMAME and BuddaMAME but has now been reborn as an easy-to-install MAME Plugin!
-
 ## Requirements
 
 This plugin is compatibile with:
@@ -58,6 +54,10 @@ rallyx,760
 ...
 ```
 
+## 2004 BYOAC Legacy
+
+Skip Startup Frames is not a new concept and not my idea. It was originally a MAME C++ patch that originated back in [early 2004](https://www.retroblast.com/archives/a-200403.html) by Alan Kamrowski II. It made it's way into some long-forgotten forks of MAME like NoNameMAME and BuddaMAME but has now been reborn as an easy-to-install MAME Plugin!
+
 ## `ssf.txt` Contributions
 
 `ssf.txt` is an old file that was [created back in 2004](https://forum.arcadecontrols.com/index.php/topic,48674.msg) and was the culmination of work by many members of the [BYOAC forum](https://forum.arcadecontrols.com/) who examined 1000's of games and recorded the correct number of frames to be skipped.
@@ -67,7 +67,7 @@ The majority of startup frames are most likely still accurate from 2004 but a lo
 
 ## Debug Mode
 
-In order to facilitate determining accurate startup frames to use in `ssf.txt` the plugin includes an optional "debug mode" that prints out the frame numbers on the screen. See the **Options section** for more details.
+In order to facilitate determining accurate startup frames to use in `ssf.txt` the plugin includes an optional "debug mode" that shows the frame numbers on the screen. See the **Options section** for more details.
 
 ![Skip Startup Frames Debug Mode](media/debug.gif)
 
@@ -107,3 +107,9 @@ In order to facilitate determining accurate startup frames to use in `ssf.txt` t
 The in-game Plugin Options menu has an additional option which allows you to change the frame target (the frame that the plugin stops skipping at) for the currently loaded game. The frame value will persist when you restart (F3) the game and will be saved to `ssf.txt` when you exit the game.
 
 For any given game, if it's frame target is missing from `ssf.txt`, it will default to `0` and save when you exit the game.
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
