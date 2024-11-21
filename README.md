@@ -27,7 +27,7 @@ The plugin temporarily unthrottles the framerate of a game at startup until a ce
 
 ## 2004 BYOAC Legacy
 
-Skip Startup Frames is not a new concept and not my idea. It was actually originally a MAME C++ patch that originated back in [early 2004](https://www.retroblast.com/archives/a-200403.html) by Alan Kamrowski II. It made it's way into some long-forgotten forks of MAME like NoNameMAME and BuddaMAME but has now been reborn as an easy-to-install MAME Plugin!
+Skip Startup Frames is not a new concept and not my idea. It was originally a MAME C++ patch that originated back in [early 2004](https://www.retroblast.com/archives/a-200403.html) by Alan Kamrowski II. It made it's way into some long-forgotten forks of MAME like NoNameMAME and BuddaMAME but has now been reborn as an easy-to-install MAME Plugin!
 
 ## Requirements
 
@@ -38,7 +38,7 @@ This plugin is compatibile with:
 
 ## How does it work?
 
-Every rom has a different startup procedure and different number of startup frames that need to be skipped. The solution to this problem is an included file called `ssf.txt` which is a simple text file containing rom names and frames to be skipped. This plugin reads in the file and determines how many frames to skip for the loaded rom.
+Every rom has a different startup procedure and different number of startup frames that need to be skipped. The solution to this problem is an included file called `ssf.txt` which is a simple text file containing rom names and frames to be skipped. Whenever a game starts or is restarted, `ssf.txt` is loaded and the plugin determines how many frames to skip for the loaded rom.
 
 ```
 ...
@@ -101,3 +101,7 @@ In order to facilitate determining accurate startup frames to use in `ssf.txt` t
 - `debugSlowMotion` - _Yes/No_
   - Used to slowdown game speed/playback while in debug mode.
   - Default: `No`
+
+## Frame Target In-Game Adjustments
+
+The in-game Plugin Options menu has an additional option which allows you to change the frame target (the frame that the plugin stops skipping at) for the currently loaded game. The frame value will persist when you restart (F3) the game and will be saved to `ssf.txt` when you exit the game.
