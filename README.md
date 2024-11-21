@@ -105,3 +105,5 @@ In order to facilitate determining accurate startup frames to use in `ssf.txt` t
 ## Frame Target In-Game Adjustments
 
 The in-game Plugin Options menu has an additional option which allows you to change the frame target (the frame that the plugin stops skipping at) for the currently loaded game. The frame value will persist when you restart (F3) the game and will be saved to `ssf.txt` when you exit the game.
+
+For any given game, if it's frame target is missing from `ssf.txt`, it will default to `0` and save when you exit the game.
