@@ -329,6 +329,7 @@ bublbobl,24
 buccanrs,106
 buckrog,50
 bucky,2435
+buggyboy,136
 buggychl,122
 bullfgt,289
 bullfgtr,2082
@@ -908,7 +909,7 @@ gpgolf,401
 gpilots,243
 gradius3,1286
 gratia,329
-gravitar,1192
+gravitar,60
 grchamp,711
 grdforce,1223
 grdians,676
@@ -1085,7 +1086,7 @@ iemoto,614
 iganinju,935
 igmo,2430
 ikari,350
-ikari3,1064
+ikari3,600
 ikki,42
 imago,0
 imekura,268
@@ -1314,7 +1315,7 @@ mach3,1294
 machbrkr,4589
 machomou,232
 machridr,3857
-macross,104
+macross,375
 macross2,254
 macrossp,397
 madalien,417
@@ -2024,7 +2025,7 @@ realbrk,3198
 recalh,1410
 recordbr,134
 redalert,1807
-redbaron,1942
+redbaron,60
 redclash,6170
 redlin2p,73
 redrobin,382
@@ -2339,7 +2340,7 @@ spacetrk,1756
 spacewar,0
 spacezap,14737
 spacfury,3050
-spang,613
+spang,450
 sparkman,0
 sparkz,1071
 spatter,43
@@ -2427,7 +2428,7 @@ stagger1,288
 stakwin,243
 stakwin2,243
 starblad,1777
-starcas,9049
+starcas,0
 starcrus,0
 starfigh,1335
 starfire,0
@@ -2607,7 +2608,7 @@ tinstar,62
 titlef,1001
 tkmmpzdm,1802
 tkoboxng,6
-tmek,1627
+tmek,1450
 tmmjprd,606
 tmnt,606
 tmnt2,248
