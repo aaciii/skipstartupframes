@@ -28,7 +28,7 @@
 8ballact,264
 9ballsht,2473
 aafb,78
-abaseb,15432
+abaseb,0
 abcop,2361
 abunai,276
 aburner2,40
@@ -65,7 +65,7 @@ alpine,63
 alpinerd,0
 altbeast,34
 amazon,85
-ambush,10984
+ambush,150
 amerdart,0
 amidar,260
 amspdwy,102
@@ -134,7 +134,7 @@ astyanax,783
 asuka,612
 asurabld,435
 asylum,2502
-atarifb,14525
+atarifb,0
 ataxx,7439
 atehate,2513
 atetris,384
@@ -338,7 +338,7 @@ burglarx,557
 burnforc,1966
 burningf,243
 butasan,1027
-bwcasino,20701
+bwcasino,0
 bwidow,121
 bwing,467
 bzone,0
@@ -359,7 +359,7 @@ captaven,191
 captcomm,704
 carjmbre,7168
 carnevil,6132
-carnival,11114
+carnival,70
 carpolo,504
 cartfury,0
 castfant,9814
@@ -414,7 +414,7 @@ chopper,250
 chplft,2767
 chplftb,2500
 chqflag,512
-chukatai,14275
+chukatai,30
 chwrestl,63
 circus,0
 circusc,1177
@@ -971,7 +971,7 @@ guwange,1468
 guzzler,148
 gwar,252
 gwarrior,4124
-gypsyjug,16804
+gypsyjug,90
 gyrodine,270
 gyruss,0
 hachamf,0
@@ -1148,7 +1148,7 @@ joyjoy,243
 jpark,223
 jrpacman,340
 jsk,0
-jumpbug,11181
+jumpbug,90
 jumpcoas,348
 jumpkids,85
 jumppop,19
@@ -1302,7 +1302,7 @@ lresort,243
 lsasquad,315
 ltcasin2,2206
 ltcasino,787
-luckywld,32962
+luckywld,40
 lupin3,336
 lvcards,909
 lvgirl94,158
@@ -1359,7 +1359,7 @@ marukodq,243
 marvins,1138
 marvland,0
 masterw,43
-mastkin,30734
+mastkin,0
 matmania,332
 matrim,243
 mausuke,1198
@@ -1846,7 +1846,7 @@ pkgnshdx,51
 pkladies,17
 pkscram,6
 pktgaldx,6
-pkunwar,14151
+pkunwar,377
 platoon,21
 playball,6916
 pleiads,4
@@ -2338,7 +2338,7 @@ spaceod,22
 spaceskr,181
 spacetrk,1756
 spacewar,0
-spacezap,14737
+spacezap,0
 spacfury,3050
 spang,450
 sparkman,0
