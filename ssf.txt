@@ -192,7 +192,6 @@ bballs,3
 bbbxing,27
 bbmanw,518
 bbonk,10904
-bbprot,13773
 bbusters,296
 bchopper,158
 bcruzm12,1956
@@ -371,7 +370,7 @@ cball,34
 cbasebal,741
 cbdash,9928
 cbtime,10779
-cburnrub,12236
+cburnrub,10150
 cbuster,137
 ccasino,51
 ccastles,470
@@ -382,9 +381,9 @@ cdiscon1,10621
 centiped,0
 cerberus,3243
 cfghtice,0
-cflyball,13574
+cflyball,12300
 cgangpzl,0
-cgraplop,17137
+cgraplop,10210
 chainrec,0
 chaknpop,219
 challeng,62
@@ -504,8 +503,8 @@ cshooter,629
 csilver,-2
 csprint,58
 cstlevna,1566
-csuperas,17444
-cterrani,18639
+csuperas,8150
+cterrani,8990
 ctomaday,243
 ctornado,8952
 ctribe,293
@@ -914,7 +913,7 @@ grchamp,711
 grdforce,1223
 grdians,676
 grdnstrm,722
-greatgun,14056
+greatgun,930
 gridiron,303
 gridlee,22
 grndtour,88
@@ -2397,7 +2396,7 @@ srmp6,477
 srmp7,185
 srumbler,539
 ssf2,1004
-ssfindo,13377
+ssfindo,0
 sshangha,0
 sshooter,35
 ssi,300
@@ -2520,7 +2519,7 @@ sws93,827
 sws95,1025
 sws96,619
 sws97,968
-sws99,12404
+sws99,560
 sxyreac2,272
 sxyreact,83
 syvalion,1221
