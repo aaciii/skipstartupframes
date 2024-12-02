@@ -191,7 +191,7 @@ bbakraid,1251
 bballs,3
 bbbxing,27
 bbmanw,518
-bbonk,10904
+bbonk,0
 bbusters,296
 bchopper,158
 bcruzm12,1956
@@ -227,14 +227,14 @@ bishi,546
 bjourney,243
 bjtwin,59
 bking,497
-bking2,10341
+bking2,0
 bking3,38
 bkrtmaq,937
 bladestl,190
 blandia,304
 blasted,347
 blaster,1176
-blasto,10548
+blasto,0
 blastoff,390
 blazeon,359
 blazer,740
@@ -363,13 +363,13 @@ carpolo,504
 cartfury,0
 castfant,9814
 cavelon,538
-cavenger,10223
+cavenger,5
 cawing,1059
 cbaj,0
 cball,34
 cbasebal,741
 cbdash,9928
-cbtime,10779
+cbtime,9610
 cburnrub,10150
 cbuster,137
 ccasino,51
@@ -377,7 +377,7 @@ ccastles,470
 cchasm,6
 cclimber,12
 cclimbr2,341
-cdiscon1,10621
+cdiscon1,9290
 centiped,0
 cerberus,3243
 cfghtice,0
@@ -422,7 +422,7 @@ citybomb,627
 citycon,1645
 citylove,569
 ckong,5
-clapapa,10061
+clapapa,9878
 claypign,0
 clayshoo,328
 cleopatr,601
@@ -437,7 +437,7 @@ cluckypo,9271
 cluclu,375
 cmehyou,183
 cmissnx,8284
-cnightst,11848
+cnightst,10135
 cninja,231
 cninjau,400
 cobracom,25
@@ -471,10 +471,10 @@ cotton,21
 cotton2,3708
 cottonbm,0
 countrun,0
-cppicf,10000
+cppicf,9800
 cprobowl,9882
 cprogolf,9529
-cprosocc,11258
+cpsoccer,11679
 cptennis,9023
 cracksht,0
 crash,7371
@@ -534,7 +534,7 @@ danceyes,782
 danchih,1507
 dangar,162
 dangerz,416
-dangseed,10510
+dangseed,990
 daraku,681
 darius,281
 darius2,555
@@ -736,7 +736,7 @@ fantland,27
 fantsia2,34
 fantsy95,113
 fantzn2,0
-fantzone,10584
+fantzone,0
 fastlane,572
 fatfursp,243
 fatfury1,243
@@ -1516,7 +1516,7 @@ mrdrilr2,0
 mrflea,3071
 mrgoemon,426
 mrjong,271
-mrkougar,11674
+mrkougar,33
 mrokumei,920
 mrtnt,841
 mrviking,240
@@ -2031,7 +2031,7 @@ redrobin,382
 redufo,0
 regulus,1548
 reikaids,333
-relief,11854
+relief,0
 renaiclb,144
 renegade,2335
 renju,2680
@@ -2124,7 +2124,7 @@ safari,5493
 safarir,2
 sailormn,2054
 sailorws,199
-salamand,10809
+salamand,465
 salmndr2,916
 samsho,243
 samsho2,243
