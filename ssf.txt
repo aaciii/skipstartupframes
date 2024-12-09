@@ -288,7 +288,7 @@ bogeyman,4
 boggy84,1128
 bombbee,963
 bombjack,1526
-bongo,-4
+bongo,4
 bonkadv,1020
 bonzeadv,209
 boogwing,0
@@ -346,7 +346,7 @@ bwcasino,20701
 bwidow,121
 bwing,467
 bzone,0
-cabal,-7
+cabal,7
 cachat,470
 cadash,141
 cairblad,85
@@ -505,7 +505,7 @@ csclub,2763
 cscrtry,9446
 cshift,2249
 cshooter,629
-csilver,-2
+csilver,2
 csprint,58
 cstlevna,1566
 csuperas,17444
@@ -517,7 +517,7 @@ ctsttape,0
 cubybop,2103
 cuebrick,3485
 cupfinal,915
-cupsoc,-1
+cupsoc,1
 curvebal,0
 cutieq,570
 cworld,163
@@ -1018,7 +1018,7 @@ heiankyo,1275
 helifire,44
 hellfire,220
 hero,6937
-hexa,-5
+hexa,5
 hexion,399
 hgkairak,728
 hharry,518
@@ -1455,7 +1455,7 @@ mjgottub,858
 mjhokite,172
 mjikaga,0
 mjkinjas,586
-mjkjidai,-1
+mjkjidai,1
 mjkoiura,147
 mjkojink,0
 mjlaman,0
@@ -1626,7 +1626,7 @@ neruton,272
 nettoqc,370
 netwars,560
 newfant,114
-news,-4
+news,4
 newsin7,179
 ngpgal,215
 nibbler,2784
@@ -2919,5 +2919,5 @@ zombraid,7299
 zookeep,2774
 zunkyou,1825
 zupapa,243
-zwackery,60
+zwackery,750|120
 zzyzzyxx,3876
