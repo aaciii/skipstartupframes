@@ -36,7 +36,7 @@ This plugin is compatibile with:
 
 Every rom has a different startup procedure and different number of startup frames that need to be skipped. The included file `ssf.txt` defines how many frames should be skipped for each rom.
 
-For more information on `ssf.txt` see the [SSF.TXT documentation](SSF.TXT.MD).
+For more information on `ssf.txt` see the [SSF.TXT documentation](SSF.TXT.md).
 
 ## 2004 BYOAC Legacy
 
