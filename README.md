@@ -1,12 +1,12 @@
-# MAME Skip Startup Frames Plugin
+# :star: MAME Skip Startup Frames Plugin :star:
 
-This is a LUA Plugin for [MAME](https://www.mamedev.org/) that automatically skips the startup frames for roms when you start them.
+This is a LUA Plugin for [MAME](https://www.mamedev.org/) that automatically :arrow_right: skips the startup frames for roms when you start them.
 
 ## What does it do?
 
-The plugin temporarily unthrottles the framerate of a game at startup until a certain number of frames has been reached and then returns the framerate back to normal. The plugin also temporarily mutes the audio and blacks out the screen. The faster the computer, the faster the unthrottled startup time will be.
+The plugin temporarily unthrottles :fast_forward: the framerate of a game at startup until a certain number of frames has been reached and then returns the framerate back to normal. The plugin also temporarily mutes :mute: the audio and blacks out the screen. The faster the computer :computer: the faster the unthrottled startup time will be.
 
-## `galaga` startup example
+## :video_game: `galaga` startup example
 
 | Before: ~12 sec startup time               | After: ~1 sec startup time              |
 | ------------------------------------------ | --------------------------------------- |
@@ -14,37 +14,38 @@ The plugin temporarily unthrottles the framerate of a game at startup until a ce
 
 ## Installation instructions
 
-1. Download `skipstartupframes.zip` from the [latest release](https://github.com/Jakobud/skipstartupframes/releases)
-2. Unzip the file into the MAME `plugins` directory
+1. :arrow_down_small: Download `skipstartupframes.zip` from the [latest release](https://github.com/Jakobud/skipstartupframes/releases) 
+2. :open_file_folder: Unzip the file into the MAME `plugins` directory 
    - Example: `c:\mame\plugins\skipstartupframes\`
-3. Enable the plugin in one of the following ways:
+3. :point_right: Enable the plugin in one of the following ways:
 
    - Enable `Skip Startup Frames` in MAME's Plugin Menu (Restarting MAME may be required)
    - Add `skipstartupframes` to the `plugin` option in `mame.ini`
+   - Enable `skipstartupframes` in `plugin.ini`
    - Run MAME with the command-line option `-plugin skipstartupframes`
 
    ![MAME plugin toggle menu](media/plugin-menu.jpg)
 
-## Requirements
+## :heavy_check_mark: Requirements
 
 This plugin is compatibile with:
 
 - **MAME 0.253** or newer
 - **Arcade64 0.253** or newer
 
-## How does it work?
+## :question: How does it work?
 
 Every rom has a different startup procedure and different number of startup frames that need to be skipped. The included file `ssf.txt` defines how many frames should be skipped for each rom.
 
 For more information on `ssf.txt` see the [SSF.TXT documentation](SSF.TXT.md).
 
-## 2004 BYOAC Legacy
+## :calendar: 2004 BYOAC Legacy
 
 Skip Startup Frames is not a new concept and not my idea. It was originally a MAME C++ patch that originated back in [early 2004](https://www.retroblast.com/archives/a-200403.html) by Alan Kamrowski II. It made it's way into some long-forgotten forks of MAME like NoNameMAME and BuddaMAME but has now been reborn as an easy-to-install MAME Plugin.
 
 `ssf.txt` is a file that was [created back in 2004](https://forum.arcadecontrols.com/index.php/topic,48674.msg) and was the culmination of work by many dedicated members of the [Build Your Own Arcade Controls forum](https://forum.arcadecontrols.com/) who examined 1000's of games and recorded the correct number of frames to be skipped.
 
-## Options
+## :pencil: Options
 
 | In-Game Plugin Options Menu               |                                                               |
 | ----------------------------------------- | ------------------------------------------------------------- |
@@ -93,7 +94,7 @@ Skip Startup Frames is not a new concept and not my idea. It was originally a MA
   - Frames to skip for the current game when a soft reset occurs
   - If edited, this value will be saved to `ssf_custom.txt`
 
-## Debug Mode
+## :desktop_computer: Debug Mode
 
 If you wish to adjust the number of startup frames to be skipped for a game, there is a "debug mode" that will facilitate determining accurate frame numbers. It displays the frame numbers on the screen and can optionally set the game in slow-motion.
 
@@ -101,7 +102,7 @@ See the **Options section** for more details.
 
 ![Skip Startup Frames Debug Mode](media/debug.gif)
 
-## License
+## :page_facing_up: License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
