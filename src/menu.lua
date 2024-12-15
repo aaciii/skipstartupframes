@@ -36,14 +36,14 @@ function ssf:menu_populate(rom)
   table.insert(result, { '---', '', '' })
   table.insert(result, { 'Frames to skip for ' .. rom, '', 'off' })
 
-  table.insert(result, { _p("plugin-skipstartupframes", "For normal startup"), self.frames.start_frame_target, self.frames.start_frame_target > 0 and 'lr' or 'r' })
+  table.insert(result, { _p("plugin-skipstartupframes", "Normal startup frames"), self.frames.start_frame_target, self.frames.start_frame_target > 0 and 'lr' or 'r' })
   indices.start_frame_target = #result
 
-  table.insert(result, { _p("plugin-skipstartupframes", "Use different frames for a reset"), ssf.enable_reset_frame_option and 'Yes' or 'No', 'lr' })
+  table.insert(result, { _p("plugin-skipstartupframes", "Use alternate frames for a soft reset"), ssf.enable_reset_frame_option and 'Yes' or 'No', 'lr' })
   indices.enable_reset_frame_option = #result
 
   if ssf.enable_reset_frame_option then
-    table.insert(result, { _p("plugin-skipstartupframes", "For a reset"), self.frames.reset_frame_target, self.frames.reset_frame_target > 0 and 'lr' or 'r' })
+    table.insert(result, { _p("plugin-skipstartupframes", "Soft reset frames"), self.frames.reset_frame_target, self.frames.reset_frame_target > 0 and 'lr' or 'r' })
     indices.reset_frame_target = #result
   end
 
