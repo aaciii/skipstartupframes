@@ -48,7 +48,7 @@ Skip Startup Frames is not a new concept and not my idea. It was originally a MA
 
 | In-Game Plugin Options Menu               |                                                               |
 | ----------------------------------------- | ------------------------------------------------------------- |
-| ![Mame In-Game Menu](media/game-menu.png) | ![Skip Startup Frames Options](media/plugin-options-menu.jpG) |
+| ![Mame In-Game Menu](media/game-menu.png) | ![Skip Startup Frames Options](media/plugin-options-menu.jpg) |
 
 - `Black out screen during startup` - _Yes/No_
 
