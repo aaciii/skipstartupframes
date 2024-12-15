@@ -75,7 +75,7 @@ In order to facilitate determining accurate startup frames to use in `ssf.txt` t
 
 | In-Game Menu                              |                                                               |
 | ----------------------------------------- | ------------------------------------------------------------- |
-| ![Mame In-Game Menu](media/game-menu.png) | ![Skip Startup Frames Options](media/plugin-options-menu.png) |
+| ![Mame In-Game Menu](media/game-menu.png) | ![Skip Startup Frames Options](media/plugin-options-menu.jpg) |
 
 - `blackout` - _Yes/No_
 
