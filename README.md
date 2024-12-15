@@ -34,79 +34,72 @@ This plugin is compatibile with:
 
 ## How does it work?
 
-Every rom has a different startup procedure and different number of startup frames that need to be skipped. The solution to this problem is an included file called `ssf.txt` which is a simple text file containing rom names and frames to be skipped. Whenever a game starts or is restarted, `ssf.txt` is loaded and the plugin determines how many frames to skip for the loaded rom.
+Every rom has a different startup procedure and different number of startup frames that need to be skipped. The included file `ssf.txt` defines how many frames should be skipped for each rom.
 
-```
-...
-radm,14
-radr,79
-radrad,439
-raflesia,15
-ragnagrd,243
-raiden,42
-raiden2,30
-raiders,550
-raiders5,1443
-raimais,529
-rainbow,376
-rallybik,517
-rallyx,760
-...
-```
+For more information on `ssf.txt` see the [SSF.TXT documentation](SSF.TXT.MD).
 
 ## 2004 BYOAC Legacy
 
-Skip Startup Frames is not a new concept and not my idea. It was originally a MAME C++ patch that originated back in [early 2004](https://www.retroblast.com/archives/a-200403.html) by Alan Kamrowski II. It made it's way into some long-forgotten forks of MAME like NoNameMAME and BuddaMAME but has now been reborn as an easy-to-install MAME Plugin!
+Skip Startup Frames is not a new concept and not my idea. It was originally a MAME C++ patch that originated back in [early 2004](https://www.retroblast.com/archives/a-200403.html) by Alan Kamrowski II. It made it's way into some long-forgotten forks of MAME like NoNameMAME and BuddaMAME but has now been reborn as an easy-to-install MAME Plugin.
 
-## `ssf.txt` Contributions
-
-`ssf.txt` is an old file that was [created back in 2004](https://forum.arcadecontrols.com/index.php/topic,48674.msg) and was the culmination of work by many members of the [BYOAC forum](https://forum.arcadecontrols.com/) who examined 1000's of games and recorded the correct number of frames to be skipped.
-
-The majority of startup frames are most likely still accurate from 2004 but a lot can change in 20+ years. Some rom's might have been changed or redumped, new roms were added to MAME, etc. If you find any startup frames in `ssf.txt` to be inaccurate or missing, you can easily contribute changes to the project:
-[CLICK HERE TO EDIT `ssf.txt`](https://github.com/Jakobud/skipstartupframes/edit/main/ssf.txt). Make your edits, commit your changes and then create a pull request into the `develop` branch. I will examine the change and either approve or reject it.
-
-## Debug Mode
-
-In order to facilitate determining accurate startup frames to use in `ssf.txt` the plugin includes an optional "debug mode" that shows the frame numbers on the screen. See the **Options section** for more details.
-
-![Skip Startup Frames Debug Mode](media/debug.gif)
+`ssf.txt` is a file that was [created back in 2004](https://forum.arcadecontrols.com/index.php/topic,48674.msg) and was the culmination of work by many dedicated members of the [Build Your Own Arcade Controls forum](https://forum.arcadecontrols.com/) who examined 1000's of games and recorded the correct number of frames to be skipped.
 
 ## Options
 
-| In-Game Menu                              |                                                               |
+| In-Game Plugin Options Menu               |                                                               |
 | ----------------------------------------- | ------------------------------------------------------------- |
-| ![Mame In-Game Menu](media/game-menu.png) | ![Skip Startup Frames Options](media/plugin-options-menu.jpg) |
+| ![Mame In-Game Menu](media/game-menu.png) | ![Skip Startup Frames Options](media/plugin-options-menu.jpG) |
 
-- `blackout` - _Yes/No_
+- `Black out screen during startup` - _Yes/No_
 
   - Whether or not to black out the screen while skipping startup frames.
-  - The plugin still renders the startup frames. This option just makes the screen black during the startup. Turn this option off if you want to see the unthrottled startup frames.
+  - The plugin still renders the startup frames. This option simply turns the screen black during the frame skipping. Turn this option off if you want to see the unthrottled startup frames.
   - Default: `Yes`
 
-- `mute` - _Yes/No_
+- `Mute audio during startup` - _Yes/No_
 
   - Whether or not to mute the audio while skipping startup frames.
   - Default: `Yes`
 
-- `parentFallback` - _Yes/No_
+- `Fallback to parent rom frames` - _Yes/No_
 
-  - If a rom is a clone and is not found in `ssf.txt`, fallback to using the parent rom's startup frames from `ssf.txt`.
+  - If a rom is a clone and is not found in `ssf.txt`, fallback to using the parent rom's startup frames (if they exist) in `ssf.txt`.
   - Default: `Yes`
 
-- `debug` - _Yes/No_
+- `Debug Mode` - _Yes/No_
 
   - Enable debug mode to show frame numbers in game in order to help determine accurate startup frame values to use for roms.
+  - A soft reset will be required to enable debug mode. Once enabled, debug mode can be toggled on/off.
   - Default: `No`
 
-- `debugSlowMotion` - _Yes/No_
+- `Slow Motion during Debug Mode` - _Yes/No_
+
   - Used to slowdown game speed/playback while in debug mode.
+  - Can be toggled on/off during debug mode.
   - Default: `No`
 
-## Frame Target In-Game Adjustments
+- `Normal startup frames` - _Frame Number_
 
-The in-game Plugin Options menu has an additional option which allows you to change the frame target (the frame that the plugin stops skipping at) for the currently loaded game. The frame value will persist when you restart (F3) the game and will be saved to `ssf.txt` when you exit the game.
+  - Frames to skip for the current game during a normal startup or hard reset
+  - If edited, this value will be saved to `ssf_custom.txt`
 
-For any given game, if it's frame target is missing from `ssf.txt`, it will default to `0` and save when you exit the game.
+- `Use different frames for a reset` - _Yes/No_
+
+  - Whether or not to skip a different number of frames when a soft reset occurs
+  - Some games have different startup procedures when a soft reset occurs
+
+- `Soft reset frames` - _Frame Number_
+
+  - Frames to skip for the current game when a soft reset occurs
+  - If edited, this value will be saved to `ssf_custom.txt`
+
+## Debug Mode
+
+If you wish to adjust the number of startup frames to be skipped for a game, there is a "debug mode" that will facilitate determining accurate frame numbers. It displays the frame numbers on the screen and can optionally set the game in slow-motion.
+
+See the **Options section** for more details.
+
+![Skip Startup Frames Debug Mode](media/debug.gif)
 
 ## License
 
