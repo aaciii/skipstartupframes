@@ -8,9 +8,9 @@ local file = ssf.plugin_directory .. "/options.cfg"
 local defaultoptions = {
   blackout = true,
   mute = true,
-  parentFallback = true,
+  parent_fallback = true,
   debug = false,
-  debugSlowMotion = false
+  debug_slow_motion = false
 }
 
 -- Load options from options.cfg
