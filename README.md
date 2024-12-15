@@ -14,8 +14,8 @@ The plugin temporarily unthrottles :fast_forward: the framerate of a game at sta
 
 ## Installation instructions
 
-1. :arrow_down_small: Download `skipstartupframes.zip` from the [latest release](https://github.com/Jakobud/skipstartupframes/releases) 
-2. :open_file_folder: Unzip the file into the MAME `plugins` directory 
+1. :arrow_down_small: Download `skipstartupframes.zip` from the [latest release](https://github.com/Jakobud/skipstartupframes/releases)
+2. :open_file_folder: Unzip the file into the MAME `plugins` directory
    - Example: `c:\mame\plugins\skipstartupframes\`
 3. :point_right: Enable the plugin in one of the following ways:
 
@@ -84,7 +84,7 @@ Skip Startup Frames is not a new concept and not my idea. It was originally a MA
   - Frames to skip for the current game during a normal startup or hard reset
   - If edited, this value will be saved to `ssf_custom.txt`
 
-- `Use different frames for a reset` - _Yes/No_
+- `Use alternate frames for a soft reset` - _Yes/No_
 
   - Whether or not to skip a different number of frames when a soft reset occurs
   - Some games have different startup procedures when a soft reset occurs
