@@ -124,7 +124,7 @@ armwaru,550
 armwrest,1690
 ashnojoe,332
 ashura,193
-aso,7163
+aso,273
 assault,107
 astdelux,0
 asterix,867
@@ -146,8 +146,8 @@ athena,725
 atlantis,1597
 atomicp,220
 aurail,452
-av2mj1bb,7161
-av2mj2rg,7190
+av2mj1bb,7651
+av2mj2rg,7661
 avalnche,136
 avengers,621
 avengrgs,713
@@ -360,7 +360,7 @@ canyon,0
 capbowl,645
 captaven,191
 captcomm,704
-carjmbre,7168
+carjmbre,1740
 carnevil,6132
 carnival,70
 carpolo,504
@@ -430,8 +430,8 @@ clapapa,9878
 claypign,0
 clayshoo,328
 cleopatr,601
-cloak,7037
-clocknch,8278
+cloak,10
+clocknch,8575
 cloud9,31
 clowns,884
 clshroad,50
@@ -440,7 +440,7 @@ club90s,351
 cluckypo,8925
 cluclu,375
 cmehyou,183
-cmissnx,8284
+cmissnx,8512
 cnightst,10135
 cninja,231
 cninjau,400
@@ -481,7 +481,7 @@ cprogolf,8946
 cpsoccer,11679
 cptennis,9215
 cracksht,0
-crash,7371
+crash,10
 crater,390
 crbaloon,986
 crgolf,0
@@ -538,7 +538,7 @@ danceyes,782
 danchih,1507
 dangar,162
 dangerz,416
-dangseed,990
+dangseed,990|180
 daraku,681
 darius,281
 darius2,555
@@ -746,7 +746,7 @@ fatfursp,243
 fatfury1,243
 fatfury2,243
 fatfury3,243
-fax,8288
+fax,10634|9710
 fbfrenzy,243
 fcombat,594
 ffight,3364
@@ -1095,7 +1095,7 @@ imago,0
 imekura,268
 imgfight,289
 imsorry,287
-indyheat,7031
+indyheat,50
 indytemp,367
 inferno,0
 insector,33
@@ -1513,7 +1513,7 @@ mp_sor2,261
 mp_twc,287
 mpangj,684
 mpatrol,9
-mplanets,7523
+mplanets,980|920
 mrdo,547
 mrdrillr,578
 mrdrilr2,0
@@ -1530,7 +1530,7 @@ msgundam,58
 msh,0
 mshuttle,502
 mshvsf,496
-msisaac,7995
+msisaac,0
 msjiken,484
 mslider,1862
 mslug,243
@@ -1942,8 +1942,8 @@ qad,3885
 qb3,230
 qbert,5
 qbertqub,34
-qcrayon,578
-qcrayon2,7766
+qcrayon,650
+qcrayon2,820
 qdrmfgp,1626
 qdrmfgp2,2363
 qgakumon,850
@@ -2108,7 +2108,7 @@ rtriv,431
 rtype,830
 rtype2,958
 rtypeleo,436
-runaway,7088
+runaway,25
 rungun,128
 rungun2,49
 rushhero,0
@@ -2670,7 +2670,7 @@ triviayp,671
 trivquiz,0
 troangel,41
 trog,411
-trojan,7787
+trojan,20
 tron,86
 trstar,701
 truco,1989
@@ -2780,7 +2780,7 @@ viper,3208
 viprp1,94
 vliner,243
 vmahjong,0
-vmetal,7010
+vmetal,280
 volfied,33
 vsav,1123
 vsav2,1123
@@ -2889,7 +2889,7 @@ xxmissio,433
 xybots,470
 xyonix,496
 yamagchi,42
-yamato,8007
+yamato,5|0
 yamyam,485
 yard,444
 yarunara,225
@@ -2918,5 +2918,5 @@ zombraid,7299
 zookeep,2774
 zunkyou,1825
 zupapa,243
-zwackery,750|120
+zwackery,540|107
 zzyzzyxx,3876
