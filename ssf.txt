@@ -139,7 +139,7 @@ asuka,612
 asurabld,435
 asylum,2502
 atarifb,0
-ataxx,7439
+ataxx,0
 atehate,2513
 atetris,384
 athena,725
@@ -361,7 +361,7 @@ capbowl,645
 captaven,191
 captcomm,704
 carjmbre,1740
-carnevil,6132
+carnevil,1200
 carnival,70
 carpolo,504
 cartfury,0
@@ -492,7 +492,7 @@ crospang,174
 crossbow,0
 crshrace,544
 crsword,243
-crush,6114
+crush,366
 crusnusa,1165
 crusnwld,972
 cryptklr,6034
@@ -524,6 +524,7 @@ cworld2j,455
 cybattlr,3052
 cyberbal,2710
 cyberlip,243
+cybertnk,1200
 cybots,67
 cybsled,360
 cyclshtg,1205
@@ -628,7 +629,7 @@ dokaben,80
 dokyusei,6
 dokyusp,207
 domino,216
-dominos,6107
+dominos,10
 dommy,953
 dondenmj,0
 dondokod,184
@@ -715,7 +716,7 @@ evosocc,377
 excelsr,242
 excitebk,14
 exctleag,0
-exctscc2,8170
+exctscc2,435
 exctsccr,1616
 exedexes,621
 exerion,1325
@@ -876,7 +877,7 @@ gigandes,113
 gigasb,26
 gigasm2b,26
 gigawing,846
-gijoe,6829
+gijoe,320
 gimeabrk,976
 ginganin,2527
 ginkun,890
@@ -884,7 +885,7 @@ gionbana,416
 gladiatr,3432
 glass,4474
 glfgreat,3773
-gloc,6945
+gloc,25
 glpracr,517
 glpracr2,0
 glpracr3,0
@@ -1016,7 +1017,7 @@ hedpanic,568
 heiankyo,1275
 helifire,44
 hellfire,220
-hero,6937
+hero,65
 hexa,5
 hexion,399
 hgkairak,728
@@ -1193,7 +1194,7 @@ kidniki,672
 kikcubic,359
 kikikai,506
 kikstart,132
-killcom,6630
+killcom,145
 kingball,330
 kingofb,1385
 kinst,1868
@@ -1403,7 +1404,7 @@ metmqstr,1316
 metrocrs,225
 mf_achas,2341
 mf_bdash,64
-mf_brist,6977
+mf_brist,0
 mf_flip,1238
 mfjump,0
 mfunclub,2352
@@ -1851,7 +1852,7 @@ pkscram,6
 pktgaldx,6
 pkunwar,377
 platoon,21
-playball,6916
+playball,640
 pleiads,4
 plgirls,123
 plgirls2,253
@@ -1961,7 +1962,7 @@ qtorimon,1179
 quantum,350
 quarterb,63
 quartet,8
-quasar,6786
+quasar,90
 quester,1018
 quiz18k,605
 quiz365,1380
@@ -2029,7 +2030,7 @@ recalh,1410
 recordbr,134
 redalert,1807
 redbaron,60
-redclash,6170
+redclash,0
 redlin2p,73
 redrobin,382
 redufo,0
@@ -2051,7 +2052,7 @@ ridgera2,0
 ridgerac,71
 ridgeraj,711
 ridhero,243
-ridingf,6889
+ridingf,485
 ridleofp,135
 rimrockn,140
 ringdest,412
@@ -2325,7 +2326,7 @@ sonson,797
 sos,396
 sotsugyo,74
 soulclbr,5482
-souledge,6149
+souledge,338
 spacbeam,0
 spacduel,2372
 spacecr,20
@@ -2914,7 +2915,7 @@ zintrckb,243
 znpwfv,0
 zoar,0
 zodiack,92
-zombraid,7299
+zombraid,280
 zookeep,2774
 zunkyou,1825
 zupapa,243
