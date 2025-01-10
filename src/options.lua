@@ -26,16 +26,15 @@ local function load()
   else
     -- Parse options file
     options = json.parse(options_file:read("*a")) or {}
+    options_file:close()
 
     -- Fix incorrect types and add missing options
     for k,v in pairs(defaultoptions) do
-      if (not options[k] or options[k] == nil or type(options[k]) ~= type(v)) then
+      if (options[k] == nil or type(options[k]) ~= type(v)) then
         options[k] = v
       end
     end
   end
-
-  options_file:close()
 
   return options
 end
