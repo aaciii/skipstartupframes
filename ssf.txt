@@ -151,7 +151,7 @@ av2mj2rg,7661
 avalnche,136
 avengers,621
 avengrgs,713
-avsp,5141
+avsp,760
 avspirit,22
 avspu,1130
 aztarac,33
@@ -391,7 +391,7 @@ cgraplop,10210
 chainrec,0
 chaknpop,219
 challeng,62
-chameleo,12
+chameleo,150|12
 champbas,1415
 champbb2,231
 champbwl,0
@@ -573,7 +573,7 @@ ddragon2,37
 ddragon3,50
 ddragonu,230
 ddribble,515
-ddsom,5739
+ddsom,410
 ddtod,1015
 ddungeon,236
 ddux,6
@@ -648,7 +648,7 @@ dragoona,1477
 dragrace,1429
 dremshpr,17
 drgnbowl,99
-drgnbstr,105
+drgnbstr,112
 drgnmst,606
 drgnunit,3702
 drgpunch,175
@@ -696,7 +696,7 @@ elecyoyo,0
 elevator,70
 elim2,538
 elvactr,700
-embargo,5377
+embargo,250
 emeralda,1152
 empcity,226
 enduror,2173
@@ -789,7 +789,7 @@ flyball,378
 flyboy,770
 flytiger,144
 fncywld,672
-fnkyfish,5789
+fnkyfish,0
 foodf,0
 footchmp,209
 forgottn,4759
@@ -823,7 +823,7 @@ gakupara,409
 gakusai,1245
 gakusai2,302
 gal10ren,229
-galaga,870
+galaga,875
 galaga88,308
 galaxian,220
 galaxyfg,243
@@ -1047,10 +1047,10 @@ horizon,1135
 horshoes,673
 hotblock,329
 hotchase,980
-hotdebut,5262
+hotdebut,325
 hotdogst,2959
 hotgmck,854
-hotgmck3,5156
+hotgmck3,705
 hotmind,2643
 hotpinbl,2265
 hotrod,1173
@@ -1254,7 +1254,7 @@ landmakr,955
 lasso,571
 lastblad,243
 lastbld2,243
-lastday,5667
+lastday,0
 lastduel,2366
 lastfort,231
 lastmisn,608
@@ -1281,7 +1281,7 @@ lghost,212
 lgtnfght,292
 liberate,381
 liberatr,3591
-liblrabl,5492
+liblrabl,515
 liquidk,214
 livegal,857
 lizwiz,62
@@ -1391,7 +1391,7 @@ megaman2,1429
 megatack,228
 megazone,327
 meosism,0
-mercs,5449
+mercs,898
 mercsu,1230
 merlinmm,417
 mermaid,14
@@ -1428,8 +1428,8 @@ milliped,30
 mimonkey,79
 minasan,243
 minefld,35
-minesw4p,5116
-mineswpr,5116
+minesw4p,0
+mineswpr,0
 minferno,0
 minigolf,1688
 minivadr,73
@@ -1586,8 +1586,8 @@ mvsc,1786
 mwalk,661
 mwarr,16
 mx5000,251
-myangel,5355
-myangel2,407
+myangel,186
+myangel2,365
 myangel3,596
 myhero,20
 mysticm,0
@@ -1630,7 +1630,7 @@ news,4
 newsin7,179
 ngpgal,215
 nibbler,2784
-nightstr,5292
+nightstr,420
 ninclown,2677
 ninjak,148
 ninjakd2,1431
@@ -1698,7 +1698,7 @@ openice,1230
 opwolf,120
 opwolf3,581
 orangec,608
-orbit,5380
+orbit,0
 orbitron,392
 ordyne,798
 orlegend,1086
@@ -1926,7 +1926,7 @@ punisher,473
 punkshot,2279
 pururun,192
 pushman,195
-puyo,5785
+puyo,20
 puyopuy2,216
 puyosun,1255
 puzlclub,2315
@@ -2089,7 +2089,7 @@ roishtar,66
 roldfrog,29
 rollerg,807
 rollingc,269
-rompers,5584
+rompers,700|186
 rongrong,373
 rotaryf,607
 rotd,243
@@ -2125,7 +2125,7 @@ s1945iii,651
 s1945p,243
 sabotenb,27
 sadari,4
-safari,5493
+safari,0
 safarir,2
 sailormn,2054
 sailorws,199
@@ -2136,7 +2136,7 @@ samsho2,243
 samsho3,243
 samsho4,243
 samurai,4781
-samuraia,5974
+samuraia,89
 sandscrp,607
 sarge,34
 sasuke,714
@@ -2325,7 +2325,7 @@ sonofphx,100
 sonson,797
 sos,396
 sotsugyo,74
-soulclbr,5482
+soulclbr,550
 souledge,338
 spacbeam,0
 spacduel,2372
@@ -2359,7 +2359,7 @@ spclforc,31
 spclords,238
 spcpostn,0
 spdball,0
-spdcoin,5452
+spdcoin,28
 spdodgeb,6
 speakres,91
 spectar,0
@@ -2488,7 +2488,7 @@ supdrapo,794
 superbik,4390
 superbon,2205
 superbug,2223
-superchs,5111
+superchs,60
 superman,67
 superpac,400
 superspy,243
@@ -2563,7 +2563,7 @@ tehkanwc,325
 tekipaki,1667
 tekken,2537
 tekken2,1217
-tekken3,5083
+tekken3,470
 tekkentt,0
 teljan,41
 telmahjn,212
@@ -2607,7 +2607,7 @@ timeplt,270
 timescan,3215
 timesold,878
 timetunl,703
-tinklpit,5720
+tinklpit,670|340
 tinstar,62
 titlef,1001
 tkmmpzdm,1802
