@@ -94,7 +94,7 @@ ar_bowl,1576
 ar_dart,1584
 ar_fast,1614
 ar_ldrb,2335
-ar_ninj,4500
+ar_ninj,1800
 ar_rdwr,1640
 ar_sdwr,1489
 ar_spot,1499
@@ -109,8 +109,8 @@ archrivl,1475
 area51,2025
 area51mx,1058
 arescue,532
-argus,4729
-argusg,65
+argus,15
+argusg,0
 arkanoid,500
 arkarea,184
 arknoid2,111
@@ -244,9 +244,9 @@ blazeon,359
 blazer,740
 blazstar,243
 bldyror2,0
-blitz,9950
-blitz2k,12213
-blitz99,8104
+blitz,750
+blitz2k,920
+blitz99,850
 blkheart,91
 blkhole,0
 blkpnthr,518
@@ -261,7 +261,7 @@ blockhl,294
 blockout,506
 bloodbro,312
 bloodstm,3272
-bloodwar,4514
+bloodwar,98
 bloxeed,323
 blstroid,30
 blswhstl,934
@@ -269,17 +269,17 @@ bluehawk,802
 blueprnt,2504
 blueshrk,2068
 blzntrnd,1207
-bm1stmix,8532
-bm2ndmix,9136
-bm4thmix,9220
-bm5thmix,9368
-bm6thmix,8673
+bm1stmix,8300
+bm2ndmix,8300
+bm4thmix,8450
+bm5thmix,8600
+bm6thmix,8600
 bmaster,719
 bmcbowl,1031
-bmcompm2,9128
-bmcompmx,10109
-bmcorerm,9130
-bmdct,9118
+bmcompm2,8600
+bmcompmx,8300
+bmcorerm,8600
+bmdct,8600
 bnglngby,95
 bnzabros,1265
 bodyslam,50
@@ -445,7 +445,7 @@ cnightst,10135
 cninja,231
 cninjau,400
 cobracom,25
-colmns97,5171
+colmns97,1199
 colony7,3101
 columns,822
 columns2,49
@@ -495,7 +495,7 @@ crsword,243
 crush,366
 crusnusa,1165
 crusnwld,972
-cryptklr,6034
+cryptklr,3700
 crysking,798
 crystal2,603
 crystalg,0
@@ -617,7 +617,7 @@ dkong,5
 dkong3,20
 dkongjr,1882
 dleague,48
-doapp,4897
+doapp,66
 docastle,106
 dockman,203
 dodgem,271
@@ -792,7 +792,7 @@ fncywld,672
 fnkyfish,0
 foodf,0
 footchmp,209
-forgottn,4759
+forgottn,594
 formatz,455
 fourtrax,2304
 fpoint,325
@@ -883,7 +883,7 @@ ginganin,2527
 ginkun,890
 gionbana,416
 gladiatr,3432
-glass,4474
+glass,591
 glfgreat,3773
 gloc,25
 glpracr,517
@@ -1316,7 +1316,7 @@ m660,2065
 m79amb,36
 mace,1810
 mach3,1294
-machbrkr,4589
+machbrkr,45|20
 machomou,232
 machridr,3857
 macross,375
@@ -1346,7 +1346,7 @@ mainsnk,913
 majs101b,385
 majtitl2,1819
 majtitle,916
-malzak,4884
+malzak,292
 maniach,468
 maniacsq,445
 manybloc,205
@@ -1367,7 +1367,7 @@ mastkin,0
 matmania,332
 matrim,243
 mausuke,1198
-maxforce,4777
+maxforce,50
 maxrpm,737
 maya,4269
 mayday,643
@@ -1597,7 +1597,7 @@ mystwarr,887
 nam1975,243
 nametune,642
 naname,777
-narc,5943
+narc,923
 nastar,142
 natodef,349
 naughtyb,1501
@@ -1647,7 +1647,7 @@ nmouse,39
 nmsengen,93
 noboranb,13
 nomnlnd,11
-nost,4602
+nost,800
 nouryoku,4248
 nova2001,345
 nrallyx,0
@@ -1873,7 +1873,7 @@ polyplay,0
 ponchin,186
 ponpoko,464
 poolshrk,66
-pooyan,4642
+pooyan,132
 popbingo,12
 popbounc,243
 popeye,20
@@ -2024,7 +2024,7 @@ rchase,443
 rckmanj,4048
 rdft,44
 rdft2,31
-reactor,6804
+reactor,0
 realbrk,3198
 recalh,1410
 recordbr,134
@@ -2135,7 +2135,7 @@ samsho,243
 samsho2,243
 samsho3,243
 samsho4,243
-samurai,4781
+samurai,0
 samuraia,89
 sandscrp,607
 sarge,34
@@ -2317,7 +2317,7 @@ soldivid,1640
 solfigtr,114
 solomon,1295
 solvalou,0
-sonic,4560
+sonic,610
 sonicbom,9
 sonicwi2,243
 sonicwi3,243
@@ -2601,7 +2601,7 @@ tigerh,30
 tigeroad,434
 timber,700
 timecris,0
-timekill,4634
+timekill,270
 timelimt,148
 timeplt,270
 timescan,3215
@@ -2807,7 +2807,7 @@ wallc,192
 wallst,179
 wanted,264
 wardner,1751
-wargods,9856
+wargods,1740
 warlords,0
 warofbug,2
 warpwarp,765
@@ -2824,10 +2824,10 @@ wcatcher,671
 wcbowl,4036
 wcbowldx,1000
 wecleman,2972
-weddingr,5152
+weddingr,1450
 welltris,1133
 wfortune,91
-wg3dh,5899
+wg3dh,1100
 wgp,351
 wh1,243
 wh2,243
