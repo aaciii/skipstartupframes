@@ -26,7 +26,7 @@ local load_frames = function(file)
   for line in frames_file:gmatch("[^\r\n]+") do
 
     -- First look for the following pattern: rom,startFrame|resetFrame
-    local rom, startFrame, resetFrame = line:match("^(%w+),([%d]+)|([%d]+)$")
+    local rom, startFrame, resetFrame = line:match("^([%w_]+),([%d]+)|([%d]+)$")
     if rom ~= nil and startFrame ~= nil and resetFrame ~= nil then
       frames[rom] = {
         start = tonumber(startFrame),
@@ -34,7 +34,7 @@ local load_frames = function(file)
       }
     else
       -- Second, look for the following pattern: rom,startFrame
-      rom, startFrame = line:match("^(%w+),([%d]+)$")
+      rom, startFrame = line:match("^([%w_]+),([%d]+)$")
 
       if rom ~= nil and startFrame ~= nil then
         frames[rom] = {
