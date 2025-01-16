@@ -33,6 +33,10 @@ This plugin is compatibile with:
 - **MAME 0.253** or newer
 - **Arcade64 0.253** or newer
 
+## :no_entry_sign: VSync Limitations
+
+The plugin will not accurately skip frames when Vsync is enabled.
+
 ## :question: How does it work?
 
 Every rom has a different startup procedure and different number of startup frames that need to be skipped. The included file `ssf.txt` defines how many frames should be skipped for each rom.
