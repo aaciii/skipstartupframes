@@ -9,7 +9,7 @@
 1943kai,551
 1944,855
 1945kiii,425
-19xx,4086
+19xx,465
 2020bb,243
 280zzzap,500
 3countb,243
@@ -51,7 +51,8 @@ agress,425
 ainferno,596
 airbustr,633
 airco22b,0
-aircombj,4209
+aircomb,890|848
+aircombj,645|547
 airduel,29
 airwolf,614
 ajax,450
@@ -100,7 +101,7 @@ ar_sdwr,1489
 ar_spot,1499
 ar_sprg,1584
 ar_xeon,1531
-arabfgt,3326
+arabfgt,41
 arabian,57
 arabianm,849
 arbalest,131
@@ -159,7 +160,7 @@ azurian,195
 backfire,0
 baddudes,35
 badlands,182
-bagman,3980
+bagman,11
 bakatono,243
 bakubaku,1197
 bakutotu,515
@@ -201,8 +202,7 @@ bchopper,158
 bcruzm12,1956
 bcstry,63
 beaminv,54
-beastrzb,3425
-beastrzr,3425
+beastrzr,760
 beathead,100
 beezer,1749
 bel,0
@@ -212,7 +212,7 @@ berlwall,148
 bermudat,299
 berzerk,961
 bigbucks,0
-bigevglf,3914
+bigevglf,674
 bigfghtr,0
 bigkarnk,921
 bigprowr,3273
@@ -307,7 +307,7 @@ boxingb,184
 boxyboy,546
 bradley,1173
 brain,26
-brdrlinb,3828
+brdrlinb,4
 breakers,243
 brickzn,1932
 brival,2101
@@ -399,7 +399,7 @@ champwr,636
 changes,353
 charlien,49
 chasehq,610
-chboxing,3818
+chboxing,80
 checkman,431
 checkmat,368
 cheekyms,561
@@ -454,7 +454,7 @@ combat,0
 commando,650
 commandw,604
 commsega,5
-comotion,4381
+comotion,8
 compgolf,391
 complexx,0
 congo,5
@@ -472,7 +472,7 @@ cosmo,65
 cosmogng,0
 cosmos,0
 cotton,21
-cotton2,3708
+cotton2,1212
 cottonbm,0
 countrun,0
 cppicf,9800
@@ -514,7 +514,7 @@ ctornado,9500
 ctribe,293
 ctsttape,0
 cubybop,2103
-cuebrick,3485
+cuebrick,301
 cupfinal,915
 cupsoc,1
 curvebal,0
@@ -650,7 +650,7 @@ dremshpr,17
 drgnbowl,99
 drgnbstr,112
 drgnmst,606
-drgnunit,3702
+drgnunit,315
 drgpunch,175
 drgw2,1194
 dribling,964
@@ -750,7 +750,7 @@ fatfury3,243
 fax,10634|9710
 fbfrenzy,243
 fcombat,594
-ffight,3364
+ffight,740
 ffreveng,0
 fghtatck,2466
 fghtbskt,416
@@ -763,7 +763,7 @@ fieldday,139
 fightfev,243
 fightrol,1572
 finalap2,97
-finalap3,3452
+finalap3,43
 finalb,316
 finalizr,176
 finallap,1379
@@ -776,7 +776,7 @@ firehawk,1071
 fireone,888
 fireshrk,241
 firetrap,38
-firetrk,3710
+firetrk,2
 fitegolf,293
 fitfight,7
 fixeight,1547
@@ -813,7 +813,7 @@ fstarfrc,414
 ftsoccer,245
 funkybee,79
 funkyjet,48
-funnymou,3407
+funnymou,207
 funybubl,48
 futspy,161
 ga2,16
@@ -836,7 +836,7 @@ galmedes,41
 galpani2,1552
 galpani4,2517
 galpanic,1124
-galpanis,3404
+galpanis,1477
 galpans2,289
 galspnbl,2334
 galxwars,965
@@ -848,8 +848,10 @@ gardia,1114
 garou,243
 garyoret,41
 gaunt2,95
-gauntdl,3812
-gauntleg,449
+gauntdl,800|840
+gauntdl24,840|880
+gauntleg,710|735
+gauntleg12,1000|1040
 gauntlet,110
 gaxeduel,0
 gberet,196
@@ -882,9 +884,9 @@ gimeabrk,976
 ginganin,2527
 ginkun,890
 gionbana,416
-gladiatr,3432
+gladiatr,253
 glass,591
-glfgreat,3773
+glfgreat,222
 gloc,25
 glpracr,517
 glpracr2,0
@@ -896,7 +898,7 @@ gng,500
 goalx3,243
 godzilla,0
 gogomile,1667
-goindol,452
+goindol,392
 gokuparo,510
 goldbug,155
 goldmedl,91
@@ -904,7 +906,7 @@ goldnaxe,370
 golgo13,2153
 gollygho,467
 gomoku,529
-gondo,1049
+gondo,20
 goonies,1030
 gorf,9
 gotcha,1281
@@ -974,7 +976,7 @@ gutsn,84
 guwange,1468
 guzzler,148
 gwar,252
-gwarrior,4124
+gwarrior,1258
 gypsyjug,90
 gyrodine,270
 gyruss,0
@@ -1068,7 +1070,7 @@ hustler,681
 hvnsgate,512
 hvoltage,286
 hvymetal,2644
-hwchamp,3515
+hwchamp,0
 hwrace,219
 hydra,194
 hyhoo,268
@@ -1158,7 +1160,7 @@ jumpkids,85
 jumppop,19
 jumpshot,1743
 junglek,13
-jungler,3605
+jungler,353
 junofrst,30
 kabukikl,243
 kabukiz,160
@@ -1280,7 +1282,7 @@ levers,1395
 lghost,212
 lgtnfght,292
 liberate,381
-liberatr,3591
+liberatr,0
 liblrabl,515
 liquidk,214
 livegal,857
@@ -1318,7 +1320,6 @@ mace,1810
 mach3,1294
 machbrkr,45|20
 machomou,232
-machridr,3857
 macross,375
 macross2,254
 macrossp,397
@@ -1369,9 +1370,9 @@ matrim,243
 mausuke,1198
 maxforce,50
 maxrpm,737
-maya,4269
+maya,150
 mayday,643
-mayhem,3350
+mayhem,98
 mayjisn2,250
 mayumi,62
 maze,959
@@ -1414,7 +1415,7 @@ mgcldtex,0
 mgcrystl,140
 mgion,799
 mgmen89,211
-mgolf,3695
+mgolf,38
 mhavoc,690
 mhgaiden,221
 mhhonban,344
@@ -1448,7 +1449,7 @@ mjdialq2,196
 mjdiplob,112
 mjegolf,266
 mjelctrn,263
-mjfocus,3516
+mjfocus,230
 mjfriday,62
 mjgottsu,581
 mjgottub,858
@@ -1479,7 +1480,7 @@ mkeibaou,208
 mladyhtr,164
 mmaiko,241
 mmatrix,734
-mmaulers,4092
+mmaulers,1304
 mmaze,194
 mmehyou,750
 mmonkey,47
@@ -1616,7 +1617,7 @@ nebulray,2614
 neckneck,1361
 nekkyoku,444
 nemesis,830
-nemo,3393
+nemo,998
 neobattl,360
 neobombe,243
 neocup98,243
@@ -1648,7 +1649,7 @@ nmsengen,93
 noboranb,13
 nomnlnd,11
 nost,800
-nouryoku,4248
+nouryoku,192
 nova2001,345
 nrallyx,0
 nratechu,208
@@ -1671,11 +1672,12 @@ nsub,1756
 ntopstar,173
 numanath,478
 nunchaku,30
+nvs_machrider,0|2
 nwarr,495
 nycaptor,308
 nyny,211
 offroad,23
-offroadc,4080
+offroadc,817
 offroadt,67
 offtwall,791
 ohmygod,426
@@ -1939,7 +1941,7 @@ pwrgoal,954
 pwrinst2,896
 pzlbowl,2083
 pzloop2j,2299
-qad,3885
+qad,645
 qb3,230
 qbert,5
 qbertqub,34
@@ -1948,7 +1950,7 @@ qcrayon2,820
 qdrmfgp,1626
 qdrmfgp2,2363
 qgakumon,850
-qgh,3811
+qgh,733
 qix,3155
 qjinsei,904
 qmhayaku,163
@@ -1987,13 +1989,13 @@ qzquest,2254
 qzshowby,202
 r2dtank,145
 rabiolep,625
-racedriv,4393
+racedriv,456
 rachero,86
 racinfrc,1395
 racknrol,23
 radarscp,260
 radarzon,0
-radikalb,3994
+radikalb,357
 radm,14
 radr,79
 radrad,439
@@ -2021,7 +2023,6 @@ rbff2,243
 rbffspec,243
 rbibb,7
 rchase,443
-rckmanj,4048
 rdft,44
 rdft2,31
 reactor,0
@@ -2079,6 +2080,7 @@ robotbwl,274
 robotron,735
 robowres,12
 rockclim,231
+rockmanj,460
 rockn,96
 rockrage,218
 rocktrv2,1679
@@ -2215,7 +2217,7 @@ sfootbal,1768
 sfposeid,628
 sfru2049,0
 sfrush,0
-sftm,3790
+sftm,68
 sfx,90
 sgemf,1009
 sgladiat,261
@@ -2251,7 +2253,7 @@ shootbul,821
 shootgal,52
 shootout,3
 shougi,0
-showdown,3856
+showdown,1803
 shrike,705
 shtrider,18
 shuffle,671
@@ -2269,7 +2271,7 @@ simpbowl,0
 simpsons,600
 sindbadm,5
 sinistar,0
-sjryuko,3763
+sjryuko,82
 skullxbo,383
 skyadvnt,761
 skyalert,219
@@ -2289,7 +2291,7 @@ skysoldr,940
 slammast,488
 slapfigh,0
 slapshot,641
-slikshot,4246
+slikshot,348
 slipstrm,0
 slither,0
 slyspy,199
@@ -2426,7 +2428,7 @@ sstrangr,747
 sstrike,801
 sstrngr2,747
 stactics,151
-stadhero,4088
+stadhero,598
 stadhr96,0
 stagger1,288
 stakwin,243
@@ -2451,7 +2453,7 @@ statriv2,0
 statriv4,3
 stdragon,660
 steeltal,499
-stg,3584
+stg,0
 stinger,260
 stkclmns,695
 stlforce,13
@@ -2460,7 +2462,7 @@ stocker,1690
 stoffy,162
 stompin,209
 stonebal,1917
-strahl,3600
+strahl,1060
 stratab,810
 stratgyx,358
 stratof,847
@@ -2485,7 +2487,7 @@ suchipi,421
 sundance,0
 supbtime,18
 supdrapo,794
-superbik,4390
+superbik,1540
 superbon,2205
 superbug,2223
 superchs,60
@@ -2509,8 +2511,8 @@ suratk,431
 surfplnt,540
 survarts,221
 survival,12
-susume,3786
-suzuk8h2,4455
+susume,2000
+suzuk8h2,52
 suzuka8h,52
 suzume,836
 svf,136
@@ -2530,7 +2532,7 @@ sxyreact,83
 syvalion,1221
 szaxxon,5
 tacscan,4
-tactcian,3302
+tactcian,7
 tail2nos,209
 tailg,1
 taitogn,0
@@ -2628,7 +2630,7 @@ tokio,3
 tokisens,3
 tokkae,651
 tokyogal,152
-tomahawk,4350
+tomahawk,19
 tondemo,1500
 tontonb,101
 toobin,1874
@@ -2675,7 +2677,7 @@ trojan,20
 tron,86
 trstar,701
 truco,1989
-trucocl,3786
+trucocl,6
 truxton,676
 truxton2,762
 trvchlng,1008
@@ -2697,7 +2699,7 @@ turbofrc,388
 turbotag,35
 turfmast,243
 turtles,193
-turtship,3528
+turtship,837
 tutankhm,1541
 tutstomb,1964
 twcup98,0
@@ -2717,7 +2719,7 @@ twrldc94,0
 tws96,243
 tylz,291
 uballoon,642
-uccops,3677
+uccops,870
 uchuuai,293
 ufosensi,7
 ultennis,1582
@@ -2821,7 +2823,7 @@ wbml,161
 wboy,257
 wc90,1413
 wcatcher,671
-wcbowl,4036
+wcbowl,145
 wcbowldx,1000
 wecleman,2972
 weddingr,1450
@@ -2861,7 +2863,7 @@ wow,0
 wpksoc,341
 wrally,0
 wrally2,0
-wrecking,4145
+wrecking,12
 wrestwar,15
 wrofaero,323
 ws,2530
@@ -2881,7 +2883,7 @@ xevious,977
 xexex,808
 xmcota,491
 xmen,1130
-xmultipl,3761
+xmultipl,514
 xmvsf,492
 xorworld,683
 xsleena,109
@@ -2920,4 +2922,4 @@ zookeep,2774
 zunkyou,1825
 zupapa,243
 zwackery,540|107
-zzyzzyxx,3876
+zzyzzyxx,0
