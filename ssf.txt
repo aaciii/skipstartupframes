@@ -138,10 +138,10 @@ astrof,828
 astyanax,783
 asuka,612
 asurabld,435
-asylum,2502
+asylum,68
 atarifb,0
 ataxx,0
-atehate,2513
+atehate,136
 atetris,384
 athena,725
 atlantis,1597
@@ -186,7 +186,6 @@ batrider,1178
 batsugun,729
 battlane,845
 battlcry,116
-battleg,2655
 battlera,595
 battlex,32
 battlnts,191
@@ -211,6 +210,7 @@ berabohm,568
 berlwall,148
 bermudat,299
 berzerk,961
+bgaregga,2655
 bigbucks,0
 bigevglf,674
 bigfghtr,0
@@ -266,7 +266,7 @@ bloxeed,323
 blstroid,30
 blswhstl,934
 bluehawk,802
-blueprnt,2504
+blueprnt,38
 blueshrk,2068
 blzntrnd,1207
 bm1stmix,8300
@@ -325,7 +325,7 @@ btlecity,61
 btlkroad,144
 btoads,700
 bubblem,855
-bubbles,2741
+bubbles,649
 bubl2000,15
 bublbob2,595
 bublbobl,24
@@ -405,7 +405,7 @@ checkmat,368
 cheekyms,561
 cheesech,345
 chelnov,523
-cheyenne,2646
+cheyenne,1672
 chiller,0
 chimerab,29
 chinagat,308
@@ -500,7 +500,7 @@ crysking,798
 crystal2,603
 crystalg,0
 crzrally,360
-csclub,2763
+csclub,1110
 cscrtry,9340
 cshift,2249
 cshooter,629
@@ -522,7 +522,7 @@ cutieq,570
 cworld,163
 cworld2j,455
 cybattlr,240
-cyberbal,2710
+cyberbal,71
 cyberlip,243
 cybertnk,1200
 cybots,67
@@ -586,7 +586,7 @@ demndrgn,25
 demoderb,446
 demon,154
 demoneye,86
-demonwld,2707
+demonwld,199
 depthch,77
 desertbr,334
 desertgu,2
@@ -704,7 +704,7 @@ enforce,449
 enigma2,1683
 eprom,909
 equites,2425
-ertictac,2507
+ertictac,66
 esb,559
 esckids,2132
 espial,1651
@@ -834,7 +834,7 @@ galkaika,241
 galkoku,329
 galmedes,41
 galpani2,1552
-galpani4,2517
+galpani4,1480
 galpanic,1124
 galpanis,1477
 galpans2,289
@@ -870,7 +870,7 @@ gfire2,261
 gforce2,28
 gghost,618
 gground,1260
-ghoshunt,2716
+ghoshunt,12
 ghostb,22
 ghostlop,243
 ghouls,1456
@@ -881,7 +881,7 @@ gigasm2b,26
 gigawing,846
 gijoe,320
 gimeabrk,976
-ginganin,2527
+ginganin,36
 ginkun,890
 gionbana,416
 gladiatr,253
@@ -926,7 +926,7 @@ gridlee,22
 grndtour,88
 grobda,833
 groovef,1231
-groundfx,2528
+groundfx,583
 growl,347
 grudge,661
 gseeker,1935
@@ -1053,7 +1053,7 @@ hotdebut,325
 hotdogst,17
 hotgmck,854
 hotgmck3,705
-hotmind,2643
+hotmind,76
 hotpinbl,2265
 hotrod,1173
 hotshock,66
@@ -1069,7 +1069,7 @@ hustle,0
 hustler,681
 hvnsgate,512
 hvoltage,286
-hvymetal,2644
+hvymetal,2845
 hwchamp,0
 hwrace,219
 hydra,194
@@ -1078,7 +1078,7 @@ hyhoo2,752
 hyperath,1180
 hyperpac,67
 hyperspt,201
-hyprdriv,2627
+hyprdriv,770
 hyprduel,0
 hypreac2,941
 hypreact,644
@@ -1118,12 +1118,12 @@ invrvnge,352
 ipminvad,698
 iqblock,1424
 irobot,16
-ironhors,2512
+ironhors,226
 irrmaze,243
 ixion,257
 jack,314
 jackal,772
-jackrabt,2709
+jackrabt,226
 jailbrek,136
 jajamaru,1120
 janbari,204
@@ -1613,7 +1613,7 @@ ncombat,243
 ncommand,243
 ncv1,720
 ncv2,1327
-nebulray,2614
+nebulray,60
 neckneck,1361
 nekkyoku,444
 nemesis,830
@@ -1632,7 +1632,7 @@ newsin7,179
 ngpgal,215
 nibbler,183
 nightstr,420
-ninclown,2677
+ninclown,227
 ninjak,148
 ninjakd2,1431
 ninjakun,1582
@@ -1820,7 +1820,7 @@ peekaboo,48
 peggle,475
 penbros,160
 pengo,523
-pepper2,2727
+pepper2,2278
 percuss,82
 perestro,543
 perfrman,70
@@ -1983,7 +1983,7 @@ quiztou,668
 quiztvqq,176
 qwak,195
 qzchikyu,186
-qzkklgy2,2587
+qzkklgy2,638
 qzkklogy,915
 qzquest,2254
 qzshowby,202
@@ -2040,7 +2040,7 @@ reikaids,333
 relief,0
 renaiclb,144
 renegade,2335
-renju,2680
+renju,686
 rescraid,1769
 rescue,0
 retofinv,0
@@ -2095,7 +2095,7 @@ rompers,700|186
 rongrong,373
 rotaryf,607
 rotd,243
-rougien,2739
+rougien,0
 roundup,2
 roundup5,446
 route16,58
@@ -2122,7 +2122,7 @@ ryouran,39
 ryujin,1869
 ryukyu,318
 s1945,1705
-s1945ii,2568
+s1945ii,648
 s1945iii,651
 s1945p,243
 sabotenb,27
@@ -2332,7 +2332,7 @@ souledge,338
 spacbeam,0
 spacduel,2372
 spacecr,20
-spacedx,2509
+spacedx,480
 spacefb,0
 spacefev,418
 spacefrt,0
@@ -2393,7 +2393,7 @@ spyhunt,70
 spyhunt2,116
 sqbert,352
 sqix,686
-sraider,2694
+sraider,8
 srdarwin,530
 srdmissn,102
 srmp2,0
@@ -2516,7 +2516,7 @@ suzuk8h2,52
 suzuka8h,52
 suzume,836
 svf,136
-svolley,2554
+svolley,254
 swat,12
 swcourt,622
 swimmer,162
@@ -2559,11 +2559,11 @@ tdragon2,792
 teamqb,68
 techromn,247
 tecmowcm,57
-teddybb,2565
+teddybb,2772|11
 teedoff,492
 tehkanwc,325
 tekipaki,1667
-tekken,2537
+tekken,264
 tekken2,1217
 tekken3,470
 tekkentt,0
@@ -2589,7 +2589,7 @@ thehand,4
 thehustl,292
 themj,73
 thepit,79
-thief,2631
+thief,331
 thndrbld,26
 thndrx2,266
 thndzone,4
@@ -2666,9 +2666,9 @@ triplhnt,9
 tripool,216
 trisport,1079
 triviabb,671
-triviag1,2681
-triviag2,2685
-triviasp,2681
+triviag1,669
+triviag2,670
+triviasp,670
 triviayp,671
 trivquiz,0
 troangel,41
@@ -2818,7 +2818,7 @@ warriorb,622
 waterski,19
 wb3,13
 wbbc97,41
-wbeachvl,2642
+wbeachvl,580
 wbml,161
 wboy,257
 wc90,1413
@@ -2866,7 +2866,7 @@ wrally2,0
 wrecking,12
 wrestwar,15
 wrofaero,323
-ws,2530
+ws,689|106
 wseries,276
 wsf,121
 wtennis,0
