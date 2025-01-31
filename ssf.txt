@@ -30,10 +30,10 @@
 88games,506
 8ball,285
 8ballact,264
-9ballsht,2473
+9ballsht,2105
 aafb,78
 abaseb,0
-abcop,2361
+abcop,82
 abunai,276
 aburner2,40
 ace,85
@@ -94,7 +94,7 @@ ar_airh,1516
 ar_bowl,1576
 ar_dart,1584
 ar_fast,1614
-ar_ldrb,2335
+ar_ldrb,2016
 ar_ninj,1800
 ar_rdwr,1640
 ar_sdwr,1489
@@ -296,7 +296,7 @@ boothill,1418
 borench,282
 borntofi,0
 bosco,1010
-botanic,2404
+botanic,340
 bottom9,775
 bouldash,33
 bounty,857
@@ -703,7 +703,7 @@ enduror,2173
 enforce,449
 enigma2,1683
 eprom,909
-equites,2425
+equites,354
 ertictac,66
 esb,559
 esckids,2132
@@ -752,7 +752,7 @@ fbfrenzy,243
 fcombat,594
 ffight,740
 ffreveng,0
-fghtatck,2466
+fghtatck,566|286
 fghtbskt,416
 fghthist,38
 fgoal,0
@@ -794,7 +794,7 @@ foodf,0
 footchmp,209
 forgottn,594
 formatz,455
-fourtrax,2304
+fourtrax,465
 fpoint,325
 freekick,0
 freeze,1031
@@ -838,7 +838,7 @@ galpani4,1480
 galpanic,1124
 galpanis,1477
 galpans2,289
-galspnbl,2334
+galspnbl,128
 galxwars,965
 gametngk,1954
 gangwars,293
@@ -1040,7 +1040,7 @@ hogalley,12
 holeland,2272
 holo,825
 homerun,53
-hook,2424
+hook,582
 hoops96,0
 hopmappy,40
 hopprobo,82
@@ -1090,7 +1090,7 @@ idolmj,32
 idsoccer,260
 iemoto,614
 iganinju,935
-igmo,2430
+igmo,494
 ikari,350
 ikari3,600
 ikki,42
@@ -1257,7 +1257,7 @@ lasso,571
 lastblad,243
 lastbld2,243
 lastday,0
-lastduel,2366
+lastduel,327
 lastfort,231
 lastmisn,608
 lazercmd,0
@@ -1270,7 +1270,7 @@ ldrun4,35
 le2,831
 legend,659
 legendos,243
-legion,2354
+legion,181
 legionna,15
 lemmings,675
 lemnangl,0
@@ -1297,7 +1297,7 @@ loffire,33
 logger,1878
 logicpr2,417
 logicpro,47
-loht,2380
+loht,502
 lomakai,56
 looping,8
 losttomb,2236
@@ -1403,12 +1403,12 @@ metlclsh,837
 metlhawk,1008
 metmqstr,1316
 metrocrs,225
-mf_achas,2341
+mf_achas,67|28
 mf_bdash,64
 mf_brist,0
 mf_flip,1238
 mfjump,0
-mfunclub,2352
+mfunclub,94
 mgakuen,88
 mgakuen2,38
 mgcldtex,0
@@ -1508,7 +1508,7 @@ motos,1394
 mouja,1592
 mouser,2126
 mp_bio,265
-mp_gaxe2,2454
+mp_gaxe2,415
 mp_soni2,333
 mp_sonic,2163
 mp_sor2,261
@@ -1792,7 +1792,7 @@ pc_pinbt,1404
 pc_pwbld,410
 pc_pwrst,410
 pc_radr2,1082
-pc_radrc,2464
+pc_radrc,421
 pc_rcpam,413
 pc_rkats,418
 pc_rnatk,1081
@@ -1832,10 +1832,10 @@ phelios,1069
 phoenix,1007
 photoy2k,1137
 phozon,735
-pickin,2393
+pickin,7
 pignewt,6
 pigout,17
-pigskin,2435
+pigskin,92
 pinbo,523
 pingpong,391
 pipedrm,1570
@@ -1869,7 +1869,7 @@ pokrdice,336
 polaris,1244
 polepos,372
 polepos2,370
-policetr,2387
+policetr,70
 pollux,12
 polyplay,0
 ponchin,186
@@ -1931,7 +1931,7 @@ pushman,195
 puyo,20
 puyopuy2,216
 puyosun,1255
-puzlclub,2315
+puzlclub,747|168
 puzldama,2042
 puzzledp,243
 puzzli,397
@@ -1940,7 +1940,7 @@ puzznic,200
 pwrgoal,954
 pwrinst2,896
 pzlbowl,2083
-pzloop2j,2299
+pzloop2,705
 qad,645
 qb3,230
 qbert,5
@@ -2039,7 +2039,7 @@ regulus,1548
 reikaids,333
 relief,0
 renaiclb,144
-renegade,2335
+renegade,115
 renju,686
 rescraid,1769
 rescue,0
@@ -2165,7 +2165,7 @@ scontra,336
 scorpion,571
 scotrsht,97
 scramble,303
-scregg,2325
+scregg,0
 screwloo,21
 scross,1633
 scudhamm,1531
@@ -2330,7 +2330,7 @@ sotsugyo,74
 soulclbr,550
 souledge,338
 spacbeam,0
-spacduel,2372
+spacduel,102
 spacecr,20
 spacedx,480
 spacefb,0
@@ -2746,7 +2746,7 @@ valkyrie,0
 valtric,15
 vamphalf,1684
 vandyke,624
-vangrd2,2447
+vangrd2,29
 vanguard,194
 vanilla,163
 vanvan,37
@@ -2847,7 +2847,7 @@ wiping,374
 wits,339
 wiz,93
 wizdfire,15
-wizwarz,2298
+wizwarz,2
 wizzquiz,0
 wjammers,243
 wldarrow,909
