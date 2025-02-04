@@ -107,7 +107,7 @@ arabianm,849
 arbalest,131
 arcadecl,540
 archrivl,1475
-area51,2025
+area51,65
 area51mx,1058
 arescue,532
 argus,15
@@ -118,7 +118,7 @@ arknoid2,111
 arkretrn,825
 arlingtn,331
 armedf,335
-armora,2057
+armora,266
 armorcar,312
 armwar,1860
 armwaru,550
@@ -168,7 +168,7 @@ balcube,717
 ballbomb,96
 ballbros,92
 balonfgt,6
-baluba,1969
+baluba,13
 bananadr,628
 bang,1110
 bangball,1894
@@ -198,7 +198,7 @@ bbmanw,518
 bbonk,0
 bbusters,296
 bchopper,158
-bcruzm12,1956
+bcruzm12,1366
 bcstry,63
 beaminv,54
 beastrzr,760
@@ -267,7 +267,7 @@ blstroid,30
 blswhstl,934
 bluehawk,802
 blueprnt,38
-blueshrk,2068
+blueshrk,16
 blzntrnd,1207
 bm1stmix,8300
 bm2ndmix,8300
@@ -309,7 +309,7 @@ bradley,1173
 brain,26
 brdrlinb,4
 breakers,243
-brickzn,1932
+brickzn,594
 brival,44
 brkthru,538
 brubber,1576
@@ -335,10 +335,10 @@ bucky,428
 buggyboy,136
 buggychl,122
 bullfgt,289
-bullfgtr,2082
+bullfgtr,349
 bullsdrt,101
 burglarx,557
-burnforc,1966
+burnforc,882|31
 burningf,243
 butasan,1027
 bwcasino,0
@@ -808,7 +808,7 @@ fromance,421
 fromancr,563
 frontlin,527
 fround,382
-fshark,1957
+fshark,584
 fstarfrc,414
 ftsoccer,245
 funkybee,79
@@ -840,7 +840,7 @@ galpanis,1477
 galpans2,289
 galspnbl,128
 galxwars,965
-gametngk,1954
+gametngk,182
 gangwars,293
 ganryu,243
 gaplus,480
@@ -929,7 +929,7 @@ groovef,1231
 groundfx,583
 growl,347
 grudge,661
-gseeker,1935
+gseeker,426
 gslgr94u,474
 gslugrsj,492
 gstrik2,41
@@ -995,7 +995,7 @@ hangon,43
 hangonjr,103
 harddriv,1063
 harddunk,20
-hardhat,2002
+hardhat,2076
 hardhea2,890
 hardhead,283
 hardyard,1658
@@ -1105,7 +1105,7 @@ insectx,286
 intcup94,1627
 inthunt,633
 intrepid,319
-introdon,2061
+introdon,1454
 inufuku,1119
 invad2ct,18
 invaders,633
@@ -1130,10 +1130,10 @@ janjans1,121
 janshin,243
 jantouki,192
 jcross,411
-jdredd,2014
+jdredd,985
 jdreddp,1165
 jedi,400
-jitsupro,1996
+jitsupro,339
 jituroku,1154
 jjack,819
 jjparad2,33
@@ -1313,7 +1313,7 @@ lvcards,909
 lvgirl94,158
 lwings,252
 m4,846
-m660,2065
+m660,74
 m79amb,36
 mace,1810
 mach3,1294
@@ -1396,7 +1396,7 @@ mercsu,1230
 merlinmm,417
 mermaid,14
 metafox,148
-metalb,2002
+metalb,281
 metamrph,906
 metlclsh,837
 metlhawk,1008
@@ -1572,7 +1572,7 @@ mt_tgolf,0
 mt_tlbba,0
 mt_wcsoc,0
 mtlchamp,1469
-mtrap,2044
+mtrap,1984
 mtwins,537
 mugsmash,426
 multchmp,657
@@ -1798,9 +1798,9 @@ pc_rnatk,1081
 pc_rrngr,342
 pc_rygar,417
 pc_sjetm,1082
-pc_smb,2046
-pc_smb2,1086
-pc_smb3,1996
+pc_smb,423
+pc_smb2,396
+pc_smb3,423
 pc_suprc,352
 pc_tbowl,347
 pc_tenis,1249
@@ -1931,14 +1931,14 @@ puyo,20
 puyopuy2,216
 puyosun,1255
 puzlclub,747|168
-puzldama,2042
+puzldama,1024
 puzzledp,243
 puzzli,397
 puzzloop,415
 puzznic,200
 pwrgoal,954
 pwrinst2,896
-pzlbowl,2083
+pzlbowl,302
 pzloop2,705
 qad,645
 qb3,230
@@ -2115,7 +2115,7 @@ rungun,128
 rungun2,49
 rushhero,0
 rvschool,993
-rygar,1970
+rygar,381
 ryorioh,67
 ryouran,39
 ryujin,1869
@@ -2128,7 +2128,7 @@ sabotenb,27
 sadari,4
 safari,0
 safarir,2
-sailormn,2054
+sailormn,1969
 sailorws,199
 salamand,465
 salmndr2,916
@@ -2307,7 +2307,7 @@ snowboar,1723
 snowbro2,766
 snowbros,259
 socbrawl,243
-soccer,1912
+soccer,15
 soccerss,1005
 sokonuke,1675
 sokyugrt,0
@@ -2460,7 +2460,7 @@ stmblade,73
 stocker,1690
 stoffy,162
 stompin,209
-stonebal,1917
+stonebal,973
 strahl,1060
 stratab,810
 stratgyx,358
@@ -2503,7 +2503,7 @@ suprgolf,0
 suprloco,12
 suprmrio,34
 suprridr,387
-suprslam,2087
+suprslam,233
 suprtrio,195
 supxevs,5
 suratk,431
@@ -2549,8 +2549,8 @@ tattass,403
 taxidrvr,139
 tazmania,424
 tbowl,603
-tbyahhoo,1940
-tceptor,1961
+tbyahhoo,852
+tceptor,35
 tcobra2,641
 tdfever,251
 tdragon,0
@@ -2643,7 +2643,7 @@ toride2g,194
 tornbase,146
 torus,22
 toryumon,1190
-totcarn,1973
+totcarn,1467|124
 touchgo,0
 tourtabl,517
 toutrun,65
@@ -2675,7 +2675,7 @@ trog,411
 trojan,20
 tron,86
 trstar,701
-truco,1989
+truco,1077
 trucocl,6
 truxton,676
 truxton2,762
@@ -2692,7 +2692,7 @@ tturf,700
 tubep,438
 tugboat,2
 tumblep,1
-tunhunt,2008
+tunhunt,17
 turbo,19
 turbofrc,388
 turbotag,35
@@ -2700,7 +2700,7 @@ turfmast,243
 turtles,193
 turtship,837
 tutankhm,1541
-tutstomb,1964
+tutstomb,12
 twcup98,0
 twinbee,1323
 twinbrat,14
@@ -2761,7 +2761,7 @@ vbowl,0
 vcircle,393
 vendetta,380
 venture,1644
-vf,2011
+vf,205
 vfive,693
 vfkids,1596
 vgoalsoc,0
@@ -2852,7 +2852,7 @@ wjammers,243
 wldarrow,909
 wldcourt,686|121
 wmatch,12
-wndrmomo,2091
+wndrmomo,928
 wndrplnt,262
 wof,400
 wolfpack,1
