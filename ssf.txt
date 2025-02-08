@@ -93,10 +93,10 @@ aquarush,925
 ar_airh,1516
 ar_bowl,1576
 ar_dart,1584
-ar_fast,1614
+ar_fast,1931
 ar_ldrb,2016
 ar_ninj,1800
-ar_rdwr,1640
+ar_rdwr,1768
 ar_sdwr,1489
 ar_spot,1499
 ar_sprg,1584
@@ -122,7 +122,7 @@ armora,266
 armorcar,312
 armwar,358
 armwaru,550
-armwrest,1690
+armwrest,81
 ashnojoe,332
 ashura,193
 aso,273
@@ -423,7 +423,7 @@ circus,0
 circusc,1177
 cischeat,90
 citybomb,627
-citycon,1645
+citycon,266
 citylove,569
 ckong,5
 clapapa,9878
@@ -462,7 +462,7 @@ contcirc,257
 contra,910
 cookbib,20
 cookbib2,37
-coolpool,1646
+coolpool,1367
 cop01,125
 copsnrob,0
 cosmccop,498
@@ -596,7 +596,6 @@ devilfsh,124
 devilw,1079
 devstors,277
 devzone,28
-dfeveron,1632
 dharma,197
 diamond,370
 diehard,0
@@ -701,13 +700,13 @@ emeralda,1152
 empcity,226
 enduror,26
 enforce,449
-enigma2,1683
+enigma2,29
 eprom,909
 equites,354
 ertictac,66
 esb,559
 esckids,317
-espial,1651
+espial,131
 esprade,1060
 eswat,124
 eto,125
@@ -717,7 +716,7 @@ excelsr,242
 excitebk,14
 exctleag,0
 exctscc2,435
-exctsccr,1616
+exctsccr,437
 exedexes,621
 exerion,1325
 explbrkr,467
@@ -750,6 +749,7 @@ fatfury3,243
 fax,10634|9710
 fbfrenzy,243
 fcombat,594
+feversos,1031
 ffight,740
 ffreveng,0
 fghtatck,566|286
@@ -897,7 +897,7 @@ gnbarich,645
 gng,500
 goalx3,243
 godzilla,0
-gogomile,1667
+gogomile,325
 goindol,392
 gokuparo,510
 goldbug,155
@@ -998,7 +998,7 @@ harddunk,20
 hardhat,2076
 hardhea2,890
 hardhead,283
-hardyard,1658
+hardyard,218
 hasamu,897
 hatena,222
 hatris,674
@@ -1102,7 +1102,7 @@ indytemp,367
 inferno,0
 insector,33
 insectx,286
-intcup94,1627
+intcup94,559
 inthunt,633
 intrepid,319
 introdon,1454
@@ -1164,7 +1164,7 @@ junofrst,30
 kabukikl,243
 kabukiz,160
 kageki,108
-kaguya,1665
+kaguya,266
 kaguya2,1440
 kaiserkn,401
 kaitei,0
@@ -1177,7 +1177,7 @@ kangaroo,56
 kaos,614
 karatblz,18
 karatour,121
-karianx,1612
+karianx,484
 karnov,707
 karnovr,243
 kbash,1185
@@ -1431,7 +1431,7 @@ minefld,35
 minesw4p,0
 mineswpr,0
 minferno,0
-minigolf,1688
+minigolf,586
 minivadr,73
 mirninja,623
 misncrft,560
@@ -1469,7 +1469,7 @@ mjsikaku,642
 mjsister,894
 mjuraden,165
 mjyougo,0
-mjyuugi,1645
+mjyuugi,76
 mjzoomin,40
 mk,70
 mk2,70
@@ -1489,7 +1489,7 @@ mofflott,657
 moguchan,94
 mogura,492
 mole,1543
-momoko,1687
+momoko,3
 monsterb,105
 montecar,183
 monymony,1269
@@ -1762,7 +1762,7 @@ pbobble4,941
 pbobblen,243
 pc_1942,411
 pc_bball,419
-pc_bfght,1625
+pc_bfght,435
 pc_bstar,1120
 pc_cntra,340
 pc_cshwk,418
@@ -1946,7 +1946,7 @@ qbert,5
 qbertqub,34
 qcrayon,650
 qcrayon2,820
-qdrmfgp,1626
+qdrmfgp,1450
 qdrmfgp2,2650
 qgakumon,850
 qgh,733
@@ -2082,7 +2082,7 @@ rockclim,231
 rockmanj,460
 rockn,96
 rockrage,218
-rocktrv2,1679
+rocktrv2,1074
 rocnrope,380
 rodland,39
 rohga,2
@@ -2166,7 +2166,7 @@ scotrsht,97
 scramble,303
 scregg,0
 screwloo,21
-scross,1633
+scross,41
 scudhamm,1531
 sdgndmps,511
 sdi,291
@@ -2294,7 +2294,7 @@ slikshot,348
 slipstrm,0
 slither,0
 slyspy,199
-smashtv,1613
+smashtv,1114|69
 smgolf,9
 smgp,561
 smleague,0
@@ -2309,12 +2309,12 @@ snowbros,259
 socbrawl,243
 soccer,15
 soccerss,1005
-sokonuke,1675
+sokonuke,420
 sokyugrt,0
 solarfox,905
 solarq,687
 soldamj,428
-soldivid,1640
+soldivid,657
 solfigtr,114
 solomon,1295
 solvalou,0
@@ -2457,7 +2457,7 @@ stinger,260
 stkclmns,695
 stlforce,13
 stmblade,73
-stocker,1690
+stocker,598
 stoffy,162
 stompin,209
 stonebal,973
@@ -2539,7 +2539,7 @@ taiwanmb,1071
 tank8,0
 tankbatt,204
 tankbust,1016
-tankfrce,1657
+tankfrce,154|93
 tantr,1449
 taotaido,409
 tapper,150
@@ -2561,7 +2561,7 @@ tecmowcm,57
 teddybb,2772|11
 teedoff,492
 tehkanwc,325
-tekipaki,1667
+tekipaki,1155
 tekken,264
 tekken2,1217
 tekken3,470
@@ -2739,7 +2739,7 @@ usg185,804
 usg252,810
 usg32,1289
 usg83,1242
-usvsthem,1623
+usvsthem,1685
 utoukond,663
 valkyrie,0
 valtric,15
@@ -2760,7 +2760,7 @@ vblokbrk,0
 vbowl,0
 vcircle,393
 vendetta,380
-venture,1644
+venture,1731
 vf,205
 vfive,693
 vfkids,1596
@@ -2798,7 +2798,7 @@ vspinbal,5
 vsskykid,8
 vsslalom,68
 vssoccer,7
-vstennis,1660
+vstennis,17
 vstetris,6
 vulcan,990
 vulgus,37
@@ -2896,7 +2896,7 @@ yamyam,485
 yard,444
 yarunara,225
 yesnoj,496
-yiear,1623
+yiear,198
 yosakdon,10
 yosimoto,144
 youjyudn,996
