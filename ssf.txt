@@ -133,7 +133,7 @@ asteroid,0
 astinvad,290
 astorm,0
 astrass,1187
-astrob,1391
+astrob,0
 astrof,828
 astyanax,783
 asuka,612
@@ -349,7 +349,7 @@ cabal,7
 cachat,470
 cadash,141
 cairblad,85
-calibr50,1324
+calibr50,212
 calipso,33
 calorie,0
 calspeed,0
@@ -632,7 +632,7 @@ dominos,10
 dommy,953
 dondenmj,0
 dondokod,184
-donpachi,1381
+donpachi,881
 dorachan,196
 dorodon,4
 dorunrun,371
@@ -655,7 +655,7 @@ drgw2,1194
 dribling,964
 drifto94,92
 driftout,510
-drivedge,1302
+drivedge,1224
 drivfrcp,239
 drmario,12
 drmicro,35
@@ -718,7 +718,7 @@ exctleag,0
 exctscc2,435
 exctsccr,437
 exedexes,621
-exerion,1325
+exerion,0
 explbrkr,467
 exprraid,269
 extdwnhl,900
@@ -766,12 +766,12 @@ finalap2,97
 finalap3,43
 finalb,316
 finalizr,176
-finallap,1379
+finallap,38
 finalttr,128
-findout,1375
+findout,233
 finehour,0
 firebarr,763
-firebatl,1319
+firebatl,385
 firehawk,1071
 fireone,888
 fireshrk,241
@@ -1031,7 +1031,7 @@ histryma,37
 hitice,653
 hitme,0
 hitnmiss,0
-hkagerou,1344
+hkagerou,412
 hnayayoi,323
 hnoridur,232
 hoccer,1098
@@ -1188,7 +1188,7 @@ kick,228
 kickboy,700
 kicker,947
 kickgoal,23
-kicknrun,1377
+kicknrun,82
 kickoff,937
 kickridr,4
 kidniki,672
@@ -1197,7 +1197,7 @@ kikikai,506
 kikstart,132
 killcom,145
 kingball,330
-kingofb,1385
+kingofb,807
 kinst,66
 kinst2,72
 kirameki,611
@@ -1210,7 +1210,7 @@ klax,1239
 knckhead,1298
 kncljoe,364
 kngtmare,67
-knights,1356
+knights,721
 kod,552
 kodure,427
 kof2000,243
@@ -1222,7 +1222,7 @@ kof96,243
 kof97,243
 kof98,243
 kof99,243
-koikois2,1341
+koikois2,350
 koinomp,210
 konamigt,475
 konotako,535
@@ -1241,7 +1241,7 @@ krull,952
 krzybowl,490
 ksayakyu,314
 kungfum,6
-kungfut,1360
+kungfut,1006
 kurikint,214
 kyros,69
 kyukaidk,914
@@ -1277,7 +1277,7 @@ leprechn,23
 lethalen,0
 lethalj,425
 lethalth,407
-levers,1395
+levers,0
 lghost,212
 lgtnfght,292
 liberate,381
@@ -1291,7 +1291,7 @@ llander,1057
 lnc,363
 lockload,549
 locomotn,383
-loderndf,1345
+loderndf,927
 loffire,33
 logger,132
 logicpr2,417
@@ -1400,7 +1400,7 @@ metalb,281
 metamrph,906
 metlclsh,837
 metlhawk,1008
-metmqstr,1316
+metmqstr,170
 metrocrs,225
 mf_achas,67|28
 mf_bdash,64
@@ -1503,7 +1503,7 @@ moremorp,59
 mosaic,54
 mosyougi,243
 motofren,773
-motos,1394
+motos,340
 mouja,1411
 mouser,9
 mp_bio,265
@@ -1611,9 +1611,9 @@ nbbatman,586
 ncombat,243
 ncommand,243
 ncv1,720
-ncv2,1327
+ncv2,331|53
 nebulray,60
-neckneck,1361
+neckneck,197
 nekkyoku,444
 nemesis,830
 nemo,998
@@ -1915,7 +1915,7 @@ psychic5,1235
 psychos,239
 psyforce,0
 ptblank,223
-ptblank2,1348
+ptblank2,48
 puchicar,464
 puckman,292
 puckpkmn,38
@@ -1966,7 +1966,7 @@ quartet,8
 quasar,90
 quester,1018
 quiz18k,605
-quiz365,1380
+quiz365,406
 quizchq,826
 quizdai2,243
 quizdais,243
@@ -1990,7 +1990,7 @@ r2dtank,145
 rabiolep,625
 racedriv,456
 rachero,86
-racinfrc,1395
+racinfrc,942
 racknrol,23
 radarscp,260
 radarzon,0
@@ -2351,11 +2351,12 @@ sparkz,1071
 spatter,43
 spbactn,261
 spcenctr,0
+spcewarl,0
 spcforce,7
 spcfrcii,18
 spcinv95,407
 spcking2,634
-spclaser,1307
+spclaser,23
 spclforc,31
 spclords,238
 spcpostn,0
@@ -2377,7 +2378,7 @@ spidman,10
 spiker,569
 spinlbrk,196
 spinmast,243
-splash,1346
+splash,783
 splat,652
 splatter,707
 splndrbt,1016
@@ -2435,7 +2436,7 @@ stakwin2,243
 starblad,1191|267
 starcas,0
 starcrus,0
-starfigh,1335
+starfigh,342
 starfire,0
 starforc,593
 stargate,710
@@ -2703,7 +2704,7 @@ tutankhm,61
 tutstomb,12
 twcup90,513
 twcup98,0
-twinbee,1323
+twinbee,1286
 twinbrat,14
 twincobr,569
 twineag2,648
