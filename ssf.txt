@@ -58,7 +58,7 @@ airwolf,614
 ajax,450
 akiss,42
 alexkidd,13
-alibaba,1252
+alibaba,0
 alien3,45
 aliens,430
 aliensyn,376
@@ -191,7 +191,7 @@ battlex,32
 battlnts,191
 battroad,570
 bayroute,77
-bbakraid,1251
+bbakraid,1414
 bballs,3
 bbbxing,27
 bbmanw,518
@@ -268,7 +268,7 @@ blswhstl,934
 bluehawk,802
 blueprnt,38
 blueshrk,16
-blzntrnd,1207
+blzntrnd,1074
 bm1stmix,8300
 bm2ndmix,8300
 bm4thmix,8450
@@ -281,7 +281,7 @@ bmcompmx,8300
 bmcorerm,8600
 bmdct,8600
 bnglngby,95
-bnzabros,1265
+bnzabros,1202
 bodyslam,50
 bogeyman,4
 boggy84,1128
@@ -527,13 +527,13 @@ cyberlip,243
 cybertnk,1200
 cybots,67
 cybsled,360
-cyclshtg,1205
+cyclshtg,464|582
 cyclwarr,447
 cyvern,528
 dacholer,505
 daioh,757
 daiskiss,905
-daitorid,1263
+daitorid,421
 daiyogen,87
 danceyes,782
 danchih,1194
@@ -567,7 +567,7 @@ dday,150
 ddcrew,30
 ddenlovr,534
 ddonpach,1800
-ddp2,1206
+ddp2,1144
 ddragon,819
 ddragon2,37
 ddragon3,50
@@ -820,7 +820,7 @@ ga2,16
 gaia,842
 gaiapols,1299
 gakupara,409
-gakusai,1245
+gakusai,35
 gakusai2,302
 gal10ren,229
 galaga,875
@@ -869,7 +869,7 @@ getstar,0
 gfire2,261
 gforce2,28
 gghost,618
-gground,1260
+gground,1202
 ghoshunt,12
 ghostb,22
 ghostlop,243
@@ -909,11 +909,11 @@ gomoku,529
 gondo,20
 goonies,1030
 gorf,9
-gotcha,1281
+gotcha,391
 gowcaizr,243
 gpgolf,401
 gpilots,243
-gradius3,1286
+gradius3,861
 gratia,329
 gravitar,60
 grchamp,711
@@ -1015,7 +1015,7 @@ heartatk,130
 heatbrl,0
 heberpop,1500
 hedpanic,568
-heiankyo,1275
+heiankyo,83
 helifire,44
 hellfire,220
 hero,65
@@ -1207,7 +1207,7 @@ kiwame,0
 kiwames,0
 kizuna,243
 klax,1239
-knckhead,1298
+knckhead,848|563
 kncljoe,364
 kngtmare,67
 knights,721
@@ -1247,7 +1247,7 @@ kyros,69
 kyukaidk,914
 kyustrkr,180
 ladybug,160
-ladyfrog,1241
+ladyfrog,106
 ladykill,188
 lagunar,440
 landbrk,704
@@ -1316,7 +1316,7 @@ m4,846
 m660,74
 m79amb,36
 mace,431
-mach3,1294
+mach3,833
 machbrkr,45|20
 machomou,232
 macross,375
@@ -1405,7 +1405,7 @@ metrocrs,225
 mf_achas,67|28
 mf_bdash,64
 mf_brist,0
-mf_flip,1238
+mf_flip,120
 mfjump,0
 mfunclub,94
 mgakuen,88
@@ -1492,7 +1492,7 @@ mole,0
 momoko,3
 monsterb,105
 montecar,183
-monymony,1269
+monymony,229
 moo,0
 moonal2,344
 mooncrst,16
@@ -1689,7 +1689,7 @@ ojousan,605
 olibochu,1102
 omega,40
 omegaf,0
-omegrace,1201
+omegrace,0
 omotesnd,677
 oneshot,76
 onetwo,375
@@ -1715,7 +1715,7 @@ otwalls,567
 outfxies,34
 outrun,40
 outzone,639
-overdriv,1276
+overdriv,414
 overtop,243
 ozmawars,31
 ozon1,3
@@ -1802,7 +1802,7 @@ pc_smb2,396
 pc_smb3,423
 pc_suprc,352
 pc_tbowl,347
-pc_tenis,1249
+pc_tenis,419
 pc_tkfld,1082
 pc_tmnt,1155
 pc_tmnt2,419
@@ -1864,7 +1864,7 @@ plygonet,1707
 pnickj,351
 poitto,225
 pokrdice,336
-polaris,1244
+polaris,77
 polepos,372
 polepos2,370
 policetr,70
@@ -1890,7 +1890,7 @@ powerins,551
 powrplay,17
 powyak96,1535
 ppking,218
-prehisle,1259
+prehisle,274
 preisle2,243
 prikura,1180
 primglex,0
@@ -1911,7 +1911,7 @@ pspikes,41
 pspikes2,243
 pstadium,164
 psurge,102
-psychic5,1235
+psychic5,42
 psychos,239
 psyforce,0
 ptblank,223
@@ -1929,7 +1929,7 @@ pururun,192
 pushman,195
 puyo,20
 puyopuy2,216
-puyosun,1255
+puyosun,1377
 puzlclub,747|168
 puzldama,1024
 puzzledp,243
@@ -2200,7 +2200,7 @@ sf1,650
 sf2,850
 sf2ce,895
 sfa,495
-sfa2,1286
+sfa2,1045
 sfa3,727
 sfchamp,0
 sfex,447
@@ -2262,7 +2262,7 @@ sia2650,498
 sichuan2,143
 sidearms,283
 sidepckt,4
-sidetrac,1280
+sidetrac,9
 silentd,273
 silkroad,614
 silkworm,822
@@ -2316,7 +2316,7 @@ solarq,687
 soldamj,428
 soldivid,657
 solfigtr,114
-solomon,1295
+solomon,611
 solvalou,0
 sonic,610
 sonicbom,9
@@ -2472,8 +2472,8 @@ strhoop,243
 strider,143
 strider2,0
 striv,63
-strkfgtr,1295
-strkforc,1272
+strkfgtr,30
+strkforc,808
 strkzone,227
 strnskil,14
 strtdriv,0
@@ -2494,6 +2494,7 @@ superchs,60
 superman,67
 superpac,400
 superspy,243
+superten,788
 supertnk,1140
 supertr2,0
 supertr3,0
@@ -2564,12 +2565,12 @@ teedoff,492
 tehkanwc,325
 tekipaki,1155
 tekken,264
-tekken2,1217
+tekken2,482
 tekken3,470
 tekkentt,0
 teljan,41
 telmahjn,212
-tempest,1284
+tempest,46
 tengai,149
 tenkomor,162
 tenthdeg,1614
@@ -2739,8 +2740,7 @@ upyoural,21
 usclssic,399
 usg185,804
 usg252,810
-usg32,1289
-usg83,1242
+usg32,686
 usvsthem,1685
 utoukond,663
 valkyrie,0
