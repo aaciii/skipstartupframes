@@ -170,7 +170,7 @@ ballbros,92
 balonfgt,6
 baluba,13
 bananadr,628
-bang,1110
+bang,811
 bangball,192
 bangbead,243
 bankp,113
@@ -182,7 +182,7 @@ bass,0
 batcir,482
 batman,45
 batmanfr,0
-batrider,1178
+batrider,1256
 batsugun,729
 battlane,845
 battlcry,116
@@ -237,7 +237,7 @@ bkrtmaq,937
 bladestl,190
 blandia,304
 blasted,347
-blaster,1176
+blaster,923
 blasto,0
 blastoff,390
 blazeon,359
@@ -255,7 +255,7 @@ blmbycar,676
 block,789
 blockade,910
 blockcar,802
-blocken,1136
+blocken,822
 blockgal,0
 blockhl,294
 blockout,506
@@ -284,7 +284,7 @@ bnglngby,95
 bnzabros,1202
 bodyslam,50
 bogeyman,4
-boggy84,1128
+boggy84,5
 bombbee,963
 bombjack,1180
 bongo,4
@@ -305,7 +305,7 @@ bowlrama,1157
 boxer,71
 boxingb,184
 boxyboy,546
-bradley,1173
+bradley,46
 brain,26
 brdrlinb,4
 breakers,243
@@ -420,7 +420,7 @@ chqflag,512
 chukatai,30
 chwrestl,63
 circus,0
-circusc,1177
+circusc,259
 cischeat,90
 citybomb,627
 citycon,266
@@ -493,7 +493,7 @@ crossbow,0
 crshrace,544
 crsword,243
 crush,366
-crusnusa,1165
+crusnusa,746
 crusnwld,972
 cryptklr,3700
 crysking,798
@@ -696,7 +696,7 @@ elevator,70
 elim2,538
 elvactr,700
 embargo,250
-emeralda,1152
+emeralda,402|122
 empcity,226
 enduror,26
 enforce,449
@@ -835,7 +835,7 @@ galkoku,329
 galmedes,41
 galpani2,979
 galpani4,1480
-galpanic,1124
+galpanic,120
 galpanis,1477
 galpans2,289
 galspnbl,128
@@ -844,7 +844,7 @@ gametngk,182
 gangwars,293
 ganryu,243
 gaplus,480
-gardia,1114
+gardia,18
 garou,243
 garyoret,41
 gaunt2,95
@@ -1044,7 +1044,7 @@ hoops96,0
 hopmappy,40
 hopprobo,82
 horekid,302
-horizon,1135
+horizon,0
 horshoes,673
 hotblock,329
 hotchase,980
@@ -1054,7 +1054,7 @@ hotgmck,854
 hotgmck3,705
 hotmind,76
 hotpinbl,18
-hotrod,1173
+hotrod,1019
 hotshock,66
 hotsmash,633
 hourouki,13
@@ -1074,7 +1074,7 @@ hwrace,219
 hydra,194
 hyhoo,268
 hyhoo2,752
-hyperath,1180
+hyperath,1489
 hyperpac,67
 hyperspt,201
 hyprdriv,770
@@ -1106,7 +1106,7 @@ intcup94,559
 inthunt,633
 intrepid,319
 introdon,1454
-inufuku,1119
+inufuku,692
 invad2ct,18
 invaders,633
 invadpt2,20
@@ -1124,17 +1124,17 @@ jack,314
 jackal,772
 jackrabt,226
 jailbrek,136
-jajamaru,1120
+jajamaru,4
 janbari,204
 janjans1,121
 janshin,243
 jantouki,192
 jcross,411
 jdredd,985
-jdreddp,1165
+jdreddp,89
 jedi,400
 jitsupro,339
-jituroku,1154
+jituroku,127
 jjack,819
 jjparad2,33
 jjparads,31
@@ -1180,7 +1180,7 @@ karatour,121
 karianx,484
 karnov,707
 karnovr,243
-kbash,1185
+kbash,1001
 kchamp,23
 keithlcy,537
 kengo,624
@@ -1360,7 +1360,7 @@ markham,4
 mars,43
 marukin,267
 marukodq,243
-marvins,1138
+marvins,67
 marvland,0
 masterw,43
 mastkin,0
@@ -1686,7 +1686,7 @@ ojankoc,199
 ojankohs,248
 ojankoy,2
 ojousan,605
-olibochu,1102
+olibochu,93
 omega,40
 omegaf,0
 omegrace,0
@@ -1708,7 +1708,7 @@ oscar,749
 osman,44
 otatidai,228
 othellos,1205
-othldrby,1141
+othldrby,435
 othunder,115
 otonano,522
 otwalls,567
@@ -1762,7 +1762,7 @@ pbobblen,243
 pc_1942,411
 pc_bball,419
 pc_bfght,435
-pc_bstar,1120
+pc_bstar,423
 pc_cntra,340
 pc_cshwk,418
 pc_cvnia,1088
@@ -1804,7 +1804,7 @@ pc_suprc,352
 pc_tbowl,347
 pc_tenis,419
 pc_tkfld,1082
-pc_tmnt,1155
+pc_tmnt,658
 pc_tmnt2,419
 pc_trjan,404
 pc_vball,415
@@ -1843,7 +1843,7 @@ piratetr,0
 pisces,0
 pistoldm,736
 pitfall2,13
-pitfight,1109
+pitfight,67
 pitnrun,218
 pkgnsh,19
 pkgnshdx,51
@@ -1959,7 +1959,7 @@ qsangoku,0
 qtheater,888
 qtono1,0
 qtono2,422
-qtorimon,1179
+qtorimon,429
 quantum,350
 quarterb,63
 quartet,8
@@ -2190,7 +2190,7 @@ sengoku,243
 sengoku2,243
 sengoku3,243
 senjyo,385
-senknow,1131
+senknow,1007
 senkyu,22
 sentetst,0
 sextriv1,403
@@ -2225,7 +2225,7 @@ sgunner,152
 sgunner2,172
 shackled,260
 shadfrce,971
-shadowld,1113
+shadowld,285|239
 shadoww,1313
 shangha2,239
 shangha3,805
@@ -2442,7 +2442,7 @@ starforc,593
 stargate,710
 starglad,0
 stargrds,329
-starhawk,1115
+starhawk,0
 starjack,37
 starlstr,16
 starshp1,0
@@ -2495,7 +2495,7 @@ superman,67
 superpac,400
 superspy,243
 superten,788
-supertnk,1140
+supertnk,0
 supertr2,0
 supertr3,0
 superx,72
@@ -2644,7 +2644,7 @@ toratora,733
 toride2g,194
 tornbase,146
 torus,22
-toryumon,1190
+toryumon,611
 totcarn,1467|124
 touchgo,0
 tourtabl,517
@@ -2827,7 +2827,7 @@ wcbowl,145
 wcbowldx,1000
 wecleman,382
 weddingr,1450
-welltris,1133
+welltris,45
 wfortune,91
 wg3dh,1100
 wgp,351
@@ -2882,7 +2882,7 @@ xevi3dg,150
 xevious,977
 xexex,808
 xmcota,491
-xmen,1130
+xmen,918
 xmultipl,514
 xmvsf,492
 xorworld,683
