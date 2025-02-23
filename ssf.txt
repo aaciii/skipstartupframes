@@ -108,7 +108,7 @@ arbalest,131
 arcadecl,540
 archrivl,143
 area51,65
-area51mx,1058
+area51mx,287
 arescue,532
 argus,15
 argusg,0
@@ -219,8 +219,8 @@ bigprowr,5
 bigrun,37
 bigstrik,345
 bigtwin,312
-bijokkog,1008
-bijokkoy,1039
+bijokkog,425
+bijokkoy,425
 bioatack,289
 biofreak,837
 biomtoy,1095
@@ -275,7 +275,7 @@ bm4thmix,8450
 bm5thmix,8600
 bm6thmix,8600
 bmaster,719
-bmcbowl,1031
+bmcbowl,341
 bmcompm2,8600
 bmcompmx,8300
 bmcorerm,8600
@@ -288,7 +288,7 @@ boggy84,5
 bombbee,963
 bombjack,1180
 bongo,4
-bonkadv,1020
+bonkadv,885
 bonzeadv,209
 boogwing,0
 boomrang,57
@@ -368,7 +368,7 @@ cartfury,0
 castfant,8890
 cavelon,538
 cavenger,5
-cawing,1059
+cawing,894
 cbaj,0
 cball,34
 cbasebal,741
@@ -411,7 +411,7 @@ chimerab,29
 chinagat,308
 chinatwn,263
 chinhero,416
-chinmoku,1029
+chinmoku,296
 chokchok,17
 choplift,3031|331
 chopliftbl, 12
@@ -556,7 +556,7 @@ dblewing,79
 dblplay,402
 dblpoint,5
 dbreed,44
-dbz,1059
+dbz,15
 dbz2,146
 dbzvrvs,0
 dcclub,813
@@ -574,7 +574,7 @@ ddragon3,50
 ddragonu,230
 ddribble,515
 ddsom,410
-ddtod,1015
+ddtod,995
 ddungeon,236
 ddux,6
 deadang,134
@@ -664,7 +664,7 @@ drtoppel,105
 dsaber,0
 dsoccr94,697
 dspirit,180
-dstlk,1016
+dstlk,503
 duckhunt,9
 dungeonm,514
 dunkmnia,445
@@ -676,7 +676,7 @@ dynagear,235
 dynamski,241
 dynduke,318
 dynobop,543
-dynwar,1087
+dynwar,148
 eaglshot,37
 earthjkr,112
 ebases,776
@@ -707,7 +707,7 @@ ertictac,66
 esb,559
 esckids,317
 espial,131
-esprade,1060
+esprade,519
 eswat,124
 eto,125
 evilston,41
@@ -772,7 +772,7 @@ findout,233
 finehour,0
 firebarr,763
 firebatl,385
-firehawk,1071
+firehawk,156
 fireone,888
 fireshrk,241
 firetrap,38
@@ -797,7 +797,7 @@ formatz,455
 fourtrax,465
 fpoint,325
 freekick,0
-freeze,1031
+freeze,4
 frenzy,580
 friskyt,732
 frogger,100
@@ -957,7 +957,7 @@ gulfwar2,580
 gumbo,5
 gunbird,384
 gunbird2,655
-gunbustr,1035
+gunbustr,91
 gundamex,342
 gundealr,220
 gundhara,59
@@ -966,7 +966,7 @@ gunfight,565
 gunforc2,662
 gunforce,609
 gunfront,265
-gunlock,1031
+gunlock,498
 gunmast,211
 gunnail,671
 gunsmoke,544
@@ -993,7 +993,7 @@ hanaroku,25
 hangman,52
 hangon,43
 hangonjr,103
-harddriv,1063
+harddriv,782
 harddunk,20
 hardhat,2076
 hardhea2,890
@@ -1034,7 +1034,7 @@ hitnmiss,0
 hkagerou,412
 hnayayoi,323
 hnoridur,232
-hoccer,1098
+hoccer,70
 hogalley,12
 holeland,176|138
 holo,825
@@ -1287,7 +1287,7 @@ liquidk,214
 livegal,857
 lizwiz,62
 lkage,844
-llander,1057
+llander,3
 lnc,363
 lockload,549
 locomotn,383
@@ -1399,7 +1399,7 @@ metafox,148
 metalb,281
 metamrph,906
 metlclsh,837
-metlhawk,1008
+metlhawk,985|4
 metmqstr,170
 metrocrs,225
 mf_achas,67|28
@@ -1423,7 +1423,7 @@ midres,943
 miexchng,243
 mightguy,204
 mightybj,664
-mikie,1003
+mikie,723
 milliped,30
 mimonkey,79
 minasan,243
@@ -1636,7 +1636,7 @@ ninjak,148
 ninjakd2,623
 ninjakun,1582
 ninjamas,243
-ninjaw,1052
+ninjaw,526
 ninjemak,48
 nitd,243
 nitedrvr,636
@@ -1765,19 +1765,19 @@ pc_bfght,435
 pc_bstar,423
 pc_cntra,340
 pc_cshwk,418
-pc_cvnia,1088
+pc_cvnia,413
 pc_dbldr,418
 pc_ddrgn,415
-pc_drmro,1087
-pc_duckh,1067
+pc_drmro,406
+pc_duckh,374
 pc_ebike,421
 pc_ftqst,416
-pc_gntlt,1083
+pc_gntlt,418
 pc_golf,415
 pc_goons,341
 pc_grdus,416
-pc_hgaly,1089
-pc_kngfu,1090
+pc_hgaly,399
+pc_kngfu,424
 pc_mario,423
 pc_miket,422
 pc_mman3,339
@@ -1789,21 +1789,21 @@ pc_ngaid,421
 pc_pinbt,408
 pc_pwbld,410
 pc_pwrst,410
-pc_radr2,1082
+pc_radr2,410
 pc_radrc,421
 pc_rcpam,413
 pc_rkats,418
-pc_rnatk,1081
+pc_rnatk,413
 pc_rrngr,342
 pc_rygar,417
-pc_sjetm,1082
+pc_sjetm,379
 pc_smb,423
 pc_smb2,396
 pc_smb3,423
 pc_suprc,352
 pc_tbowl,347
 pc_tenis,419
-pc_tkfld,1082
+pc_tkfld,392
 pc_tmnt,658
 pc_tmnt2,419
 pc_trjan,404
@@ -1826,8 +1826,8 @@ peterpak,169
 pettanp,13
 pgoal,243
 phantom2,0
-phelios,1069
-phoenix,1007
+phelios,402|78
+phoenix,17
 photoy2k,1137
 phozon,735
 pickin,7
@@ -1883,7 +1883,7 @@ popper,154
 porky,244
 portrait,156
 potopoto,680
-poundfor,1093
+poundfor,679
 pow,990
 powerdrv,74
 powerins,551
@@ -1902,7 +1902,7 @@ progear,940
 progress,329
 promutrv,7
 propcycl,20
-prosoccr,1023
+prosoccr,74
 prosport,24
 prtytime,850
 psailor1,144
@@ -1964,7 +1964,7 @@ quantum,350
 quarterb,63
 quartet,8
 quasar,90
-quester,1018
+quester,766|107
 quiz18k,605
 quiz365,406
 quizchq,826
@@ -2218,7 +2218,7 @@ sfru2049,0
 sfrush,0
 sftm,68
 sfx,90
-sgemf,1009
+sgemf,1012
 sgladiat,261
 sgmast,0
 sgunner,152
@@ -2308,7 +2308,7 @@ snowbro2,766
 snowbros,259
 socbrawl,243
 soccer,15
-soccerss,1005
+soccerss,1084
 sokonuke,420
 sokyugrt,0
 solarfox,905
@@ -2347,7 +2347,7 @@ spacezap,0
 spacfury,0
 spang,450
 sparkman,0
-sparkz,1071
+sparkz,0
 spatter,43
 spbactn,261
 spcenctr,0
@@ -2364,6 +2364,8 @@ spdball,0
 spdcoin,28
 spdodgeb,6
 speakres,91
+spec2k,184
+spec2kh,190
 spectar,0
 speedatk,38
 speedbal,175
@@ -2381,7 +2383,7 @@ spinmast,243
 splash,783
 splat,652
 splatter,707
-splndrbt,1016
+splndrbt,228
 spnchout,60
 sprcros2,22
 springer,378
@@ -2500,7 +2502,7 @@ supertr2,0
 supertr3,0
 superx,72
 suplup,451
-suprglob,1021
+suprglob,558
 suprgolf,0
 suprloco,12
 suprmrio,34
@@ -2524,7 +2526,7 @@ swimmer,162
 sws,814
 sws92,827
 sws93,827
-sws95,1025
+sws95,612
 sws96,619
 sws97,968
 sws99,560
@@ -2537,10 +2539,10 @@ tactcian,7
 tail2nos,209
 tailg,1
 taitogn,0
-taiwanmb,1071
+taiwanmb,284
 tank8,0
 tankbatt,204
-tankbust,1016
+tankbust,32
 tankfrce,154|93
 tantr,702
 taotaido,409
@@ -2612,7 +2614,7 @@ timesold,878
 timetunl,703
 tinklpit,670|340
 tinstar,62
-titlef,1001
+titlef,13
 tkmmpzdm,1507
 tkoboxng,6
 tmek,1450
@@ -2635,7 +2637,7 @@ tomahawk,19
 tondemo,113
 tontonb,101
 toobin,112
-topgun,1015
+topgun,2077
 tophuntr,243
 topland,519
 topsecex,1878
@@ -2665,7 +2667,7 @@ triplew1,153
 triplew2,273
 triplhnt,9
 tripool,216
-trisport,1079
+trisport,82
 triviabb,671
 triviag1,669
 triviag2,670
@@ -2681,7 +2683,7 @@ truco,1077
 trucocl,6
 truxton,676
 truxton2,762
-trvchlng,1008
+trvchlng,14
 trvgns,44
 trvmstr,44
 tryout,10
@@ -2824,7 +2826,7 @@ wbml,161
 wboy,257
 wcatcher,671
 wcbowl,145
-wcbowldx,1000
+wcbowldx,347
 wecleman,382
 weddingr,1450
 welltris,45
@@ -2838,7 +2840,7 @@ whodunit,0
 whp,243
 wiggie,85
 wildfang,433
-wildplt,1008
+wildplt,130
 willow,238
 wilytowr,170
 winspike,807
@@ -2872,7 +2874,7 @@ wsf,121
 wtennis,0
 wwally,720
 wwallyj,716
-wwestern,1009
+wwestern,370
 wwfmania,296
 wwfsstar,522
 wwfwfest,209
