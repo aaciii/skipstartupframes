@@ -89,7 +89,7 @@ apparel,485
 appoooh,638
 aquajack,123
 aquarium,167
-aquarush,925
+aquarush,551
 ar_airh,1667
 ar_bowl,1783
 ar_dart,1891
@@ -214,7 +214,7 @@ bgaregga,2655
 bigbucks,0
 bigevglf,674
 bigfghtr,0
-bigkarnk,921
+bigkarnk,846
 bigprowr,5
 bigrun,37
 bigstrik,345
@@ -233,7 +233,7 @@ bjtwin,59
 bking,497
 bking2,0
 bking3,38
-bkrtmaq,937
+bkrtmaq,609|116
 bladestl,190
 blandia,304
 blasted,347
@@ -253,7 +253,7 @@ blkpnthr,518
 blktiger,563
 blmbycar,676
 block,789
-blockade,910
+blockade,9
 blockcar,802
 blocken,822
 blockgal,0
@@ -264,7 +264,7 @@ bloodstm,325
 bloodwar,98
 bloxeed,323
 blstroid,30
-blswhstl,934
+blswhstl,384
 bluehawk,802
 blueprnt,38
 blueshrk,16
@@ -353,7 +353,7 @@ calibr50,212
 calipso,33
 calorie,0
 calspeed,0
-cameltry,930
+cameltry,765
 cannball,94
 cannonb,0
 canyon,0
@@ -459,7 +459,7 @@ compgolf,391
 complexx,0
 congo,5
 contcirc,257
-contra,910
+contra,406
 cookbib,20
 cookbib2,37
 coolpool,1367
@@ -515,7 +515,7 @@ ctribe,293
 ctsttape,0
 cubybop,355
 cuebrick,301
-cupfinal,915
+cupfinal,547
 cupsoc,1
 curvebal,0
 cutieq,570
@@ -532,7 +532,7 @@ cyclwarr,447
 cyvern,528
 dacholer,505
 daioh,757
-daiskiss,905
+daiskiss,802
 daitorid,421
 daiyogen,87
 danceyes,782
@@ -701,7 +701,7 @@ empcity,226
 enduror,26
 enforce,449
 enigma2,29
-eprom,909
+eprom,680
 equites,354
 ertictac,66
 esb,559
@@ -721,7 +721,7 @@ exedexes,621
 exerion,0
 explbrkr,467
 exprraid,269
-extdwnhl,900
+extdwnhl,853
 exterm,151
 extrmatn,149
 exvania,835
@@ -1024,7 +1024,7 @@ hexion,399
 hgkairak,728
 hharry,518
 higemaru,94
-highsplt,929
+highsplt,0
 hiimpact,1044
 hippodrm,2
 histryma,37
@@ -1079,7 +1079,7 @@ hyperpac,67
 hyperspt,201
 hyprdriv,770
 hyprduel,0
-hypreac2,941
+hypreac2,796
 hypreact,644
 iceclimb,8
 iceclmrj,8
@@ -1088,7 +1088,6 @@ idhimitu,0
 idolmj,32
 idsoccer,260
 iemoto,614
-iganinju,935
 igmo,494
 ikari,350
 ikari3,600
@@ -1180,16 +1179,17 @@ karatour,121
 karianx,484
 karnov,707
 karnovr,243
+kazan,28
 kbash,1001
 kchamp,23
 keithlcy,537
 kengo,624
 kick,228
 kickboy,700
-kicker,947
+kicker,677
 kickgoal,23
 kicknrun,82
-kickoff,937
+kickoff,20
 kickridr,4
 kidniki,672
 kikcubic,359
@@ -1244,7 +1244,7 @@ kungfum,6
 kungfut,1006
 kurikint,214
 kyros,69
-kyukaidk,914
+kyukaidk,586|338
 kyustrkr,180
 ladybug,160
 ladyfrog,106
@@ -1309,7 +1309,7 @@ ltcasin2,165
 ltcasino,690
 luckywld,40
 lupin3,336
-lvcards,909
+lvcards,297
 lvgirl94,158
 lwings,252
 m4,846
@@ -1342,10 +1342,10 @@ mahoudai,393
 mahretsu,243
 maiko,241
 mainevt,248
-mainsnk,913
+mainsnk,36
 majs101b,385
 majtitl2,1163
-majtitle,916
+majtitle,408
 malzak,292
 maniach,468
 maniacsq,445
@@ -1397,7 +1397,7 @@ merlinmm,417
 mermaid,14
 metafox,148
 metalb,281
-metamrph,906
+metamrph,802
 metlclsh,837
 metlhawk,985|4
 metmqstr,170
@@ -1419,7 +1419,7 @@ mhavoc,690
 mhgaiden,221
 mhhonban,344
 mia,624
-midres,943
+midres,8
 miexchng,243
 mightguy,204
 mightybj,664
@@ -1522,7 +1522,7 @@ mrflea,271
 mrgoemon,426
 mrjong,271
 mrkougar,33
-mrokumei,920
+mrokumei,247
 mrtnt,841
 mrviking,240
 msbingo,18
@@ -1592,7 +1592,7 @@ myangel3,596
 myhero,20
 mysticm,0
 mysticri,752
-mystston,931
+mystston,12
 mystwarr,887
 nam1975,243
 nametune,642
@@ -1757,7 +1757,7 @@ pbobbl2n,243
 pbobble,260
 pbobble2,517
 pbobble3,695
-pbobble4,941
+pbobble4,947
 pbobblen,243
 pc_1942,411
 pc_bball,419
@@ -1896,7 +1896,7 @@ prikura,1180
 primglex,0
 primrag2,0
 primrage,679
-prmrsocr,917
+prmrsocr,580
 profpac,1035
 progear,940
 progress,329
@@ -1951,7 +1951,7 @@ qdrmfgp2,2650
 qgakumon,850
 qgh,733
 qix,84
-qjinsei,904
+qjinsei,600
 qmhayaku,163
 qndream,496
 qrouka,269
@@ -1983,7 +1983,7 @@ quiztvqq,176
 qwak,195
 qzchikyu,186
 qzkklgy2,638
-qzkklogy,915
+qzkklogy,702
 qzquest,576
 qzshowby,202
 r2dtank,145
@@ -2065,7 +2065,7 @@ rjammer,117
 rmhaihai,73
 rmhaijin,77
 rmhaisei,73
-rmpgwt,905
+rmpgwt,414
 roadblst,290
 roadf,423
 roadriot,577
@@ -2131,7 +2131,7 @@ safarir,2
 sailormn,1969
 sailorws,199
 salamand,465
-salmndr2,916
+salmndr2,1416
 samsho,243
 samsho2,243
 samsho3,243
@@ -2286,7 +2286,7 @@ skylancr,708
 skyraid,217
 skyskipr,2
 skysmash,302
-skysoldr,940
+skysoldr,975
 slammast,488
 slapfigh,0
 slapshot,641
@@ -2311,7 +2311,7 @@ soccer,15
 soccerss,1084
 sokonuke,420
 sokyugrt,0
-solarfox,905
+solarfox,248
 solarq,687
 soldamj,428
 soldivid,657
@@ -2852,7 +2852,7 @@ wizdfire,15
 wizwarz,2
 wizzquiz,0
 wjammers,243
-wldarrow,909
+wldarrow,141
 wldcourt,686|121
 wmatch,12
 wndrmomo,928
