@@ -46,7 +46,7 @@ actionhw,218
 ad2083,224
 aerofgt,556
 afighter,11
-agallet,977
+agallet,957
 agress,425
 ainferno,596
 airbustr,633
@@ -209,7 +209,7 @@ benberob,51
 berabohm,568
 berlwall,148
 bermudat,299
-berzerk,961
+berzerk,586
 bgaregga,2655
 bigbucks,0
 bigevglf,674
@@ -285,7 +285,7 @@ bnzabros,1202
 bodyslam,50
 bogeyman,4
 boggy84,5
-bombbee,963
+bombbee,518
 bombjack,1180
 bongo,4
 bonkadv,885
@@ -483,7 +483,7 @@ cptennis,9215
 cracksht,0
 crash,10
 crater,390
-crbaloon,986
+crbaloon,23
 crgolf,0
 crimec,142
 crimfght,251
@@ -494,7 +494,7 @@ crshrace,544
 crsword,243
 crush,366
 crusnusa,746
-crusnwld,972
+crusnwld,634
 cryptklr,3700
 crysking,798
 crystal2,603
@@ -629,7 +629,7 @@ dokyusei,6
 dokyusp,207
 domino,216
 dominos,10
-dommy,953
+dommy,0
 dondenmj,0
 dondokod,184
 donpachi,881
@@ -652,7 +652,7 @@ drgnmst,606
 drgnunit,315
 drgpunch,175
 drgw2,1194
-dribling,964
+dribling,0
 drifto94,92
 driftout,510
 drivedge,1224
@@ -839,7 +839,7 @@ galpanic,120
 galpanis,1477
 galpans2,289
 galspnbl,128
-galxwars,965
+galxwars,0
 gametngk,182
 gangwars,293
 ganryu,243
@@ -880,7 +880,7 @@ gigasb,26
 gigasm2b,26
 gigawing,846
 gijoe,320
-gimeabrk,976
+gimeabrk,721
 ginganin,36
 ginkun,890
 gionbana,416
@@ -1047,7 +1047,7 @@ horekid,302
 horizon,0
 horshoes,673
 hotblock,329
-hotchase,980
+hotchase,1044
 hotdebut,325
 hotdogst,17
 hotgmck,854
@@ -1202,7 +1202,7 @@ kinst,66
 kinst2,72
 kirameki,611
 kirarast,317
-kittenk,972
+kittenk,486|786
 kiwame,0
 kiwames,0
 kizuna,243
@@ -1237,7 +1237,7 @@ kouyakyu,259
 kov,1208
 kram,395
 kroozr,78
-krull,952
+krull,0
 krzybowl,490
 ksayakyu,314
 kungfum,6
@@ -1251,7 +1251,7 @@ ladyfrog,106
 ladykill,188
 lagunar,440
 landbrk,704
-landmakr,955
+landmakr,665
 lasso,571
 lastblad,243
 lastbld2,243
@@ -1374,7 +1374,7 @@ mayday,643
 mayhem,98
 mayjisn2,250
 mayumi,62
-maze,959
+maze,500
 mazerbla,0
 mazinger,297
 mcatadv,350
@@ -1721,7 +1721,7 @@ ozmawars,31
 ozon1,3
 p47,1532
 p47aces,286
-pacapp,967
+pacapp,586
 pachiten,656
 pacland,158
 pacman,300
@@ -1746,7 +1746,7 @@ parodius,1220
 pass,160
 passsht,4
 pastelg,831
-patimono,970
+patimono,140|147
 pbaction,632
 pballoon,10
 pbancho,2
@@ -1813,7 +1813,7 @@ pc_wgnmn,414
 pc_ynoid,413
 pcktgal,3
 pclubys,0
-pdrift,994
+pdrift,37
 peekaboo,48
 peggle,475
 penbros,160
@@ -1884,7 +1884,7 @@ porky,244
 portrait,156
 potopoto,680
 poundfor,679
-pow,990
+pow,1018
 powerdrv,74
 powerins,551
 powrplay,17
@@ -1936,7 +1936,7 @@ puzzledp,243
 puzzli,397
 puzzloop,415
 puzznic,200
-pwrgoal,954
+pwrgoal,665
 pwrinst2,896
 pzlbowl,302
 pzloop2,705
@@ -2108,7 +2108,7 @@ rthun2,222
 rthunder,158
 rtriv,431
 rtype,830
-rtype2,958
+rtype2,705
 rtypeleo,436
 runaway,25
 rungun,128
@@ -2277,7 +2277,7 @@ skyalert,219
 skyarmy,0
 skybase,29
 skybump,9
-skychut,968
+skychut,0
 skydiver,4
 skyfox,0
 skykid,494
@@ -2528,7 +2528,7 @@ sws92,827
 sws93,827
 sws95,612
 sws96,619
-sws97,968
+sws97,552|8
 sws99,560
 sxyreac2,272
 sxyreact,83
@@ -2772,7 +2772,7 @@ vgoalsoc,0
 vhunt2,1120
 victnine,53
 victory,0
-victroad,966
+victroad,349
 videopin,0
 vidvince,23
 viewpoin,243
@@ -2804,7 +2804,7 @@ vsslalom,68
 vssoccer,7
 vstennis,17
 vstetris,6
-vulcan,990
+vulcan,858
 vulgus,37
 wacko,219
 wakuwak7,243
@@ -2881,7 +2881,7 @@ wwfwfest,209
 wwjgtin,12
 xenophob,76
 xevi3dg,150
-xevious,977
+xevious,734
 xexex,808
 xmcota,491
 xmen,918
@@ -2902,7 +2902,7 @@ yesnoj,496
 yiear,198
 yosakdon,10
 yosimoto,144
-youjyudn,996
+youjyudn,10
 yuyugogo,492
 zaviga,18
 zaxxon,5
