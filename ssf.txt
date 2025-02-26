@@ -3,11 +3,11 @@
 // Instead, add custom frame targets in a new file named "ssf_custom.txt"
 
 005,268
-1941,860
+1941,1046
 1942,640
 1943,70
 1943kai,551
-1944,855
+1944,687
 1945kiii,425
 19xx,465
 2020bb,243
@@ -40,7 +40,7 @@ ace,85
 aceattac,0
 acedrvrw,0
 acommand,0
-acrobatm,895
+acrobatm,852
 actfancr,437
 actionhw,218
 ad2083,224
@@ -128,7 +128,7 @@ ashura,193
 aso,273
 assault,107
 astdelux,0
-asterix,867
+asterix,547
 asteroid,0
 astinvad,290
 astorm,0
@@ -226,7 +226,7 @@ biofreak,837
 biomtoy,1095
 bionicc,527
 bioship,354
-birdtry,868
+birdtry,323
 bishi,546
 bjourney,243
 bjtwin,59
@@ -299,7 +299,7 @@ bosco,1010
 botanic,340
 bottom9,775
 bouldash,33
-bounty,857
+bounty,349
 bowler,560
 bowlrama,1157
 boxer,71
@@ -324,7 +324,7 @@ btime,771
 btlecity,61
 btlkroad,144
 btoads,700
-bubblem,855
+bubblem,292
 bubbles,649
 bubl2000,15
 bublbob2,595
@@ -622,7 +622,7 @@ dockman,203
 dodgem,271
 dogfgt,288
 dogfight,126
-dogpatch,897
+dogpatch,0
 dogyuun,754
 dokaben,80
 dokyusei,6
@@ -683,7 +683,7 @@ ebases,776
 ecofghtr,1000
 edf,42
 edrandy,377
-eggor,899
+eggor,0
 eggventr,389
 ehrgeiz,381
 eightfrc,198
@@ -773,7 +773,7 @@ finehour,0
 firebarr,763
 firebatl,385
 firehawk,156
-fireone,888
+fireone,0
 fireshrk,241
 firetrap,38
 firetrk,2
@@ -882,7 +882,7 @@ gigawing,846
 gijoe,320
 gimeabrk,721
 ginganin,36
-ginkun,890
+ginkun,607
 gionbana,416
 gladiatr,253
 glass,591
@@ -996,10 +996,10 @@ hangonjr,103
 harddriv,782
 harddunk,20
 hardhat,2076
-hardhea2,890
+hardhea2,826
 hardhead,283
 hardyard,218
-hasamu,897
+hasamu,308
 hatena,222
 hatris,674
 hattrick,615
@@ -1050,7 +1050,7 @@ hotblock,329
 hotchase,1044
 hotdebut,325
 hotdogst,17
-hotgmck,854
+hotgmck,714
 hotgmck3,705
 hotmind,76
 hotpinbl,18
@@ -1146,7 +1146,7 @@ jongbou,90
 josvolly,0
 journey,99
 joust,650
-joust2,860
+joust2,904
 joyfulr,0
 joyjoy,243
 jpark,223
@@ -1284,7 +1284,7 @@ liberate,381
 liberatr,0
 liblrabl,515
 liquidk,214
-livegal,857
+livegal,308
 lizwiz,62
 lkage,844
 llander,3
@@ -1380,7 +1380,7 @@ mazinger,297
 mcatadv,350
 mchampdx,560
 mcnpshnt,236
-mcontest,868
+mcontest,208
 mdhorse,550
 mechatt,380
 medlanes,89
@@ -1451,7 +1451,7 @@ mjelctrn,263
 mjfocus,230
 mjfriday,62
 mjgottsu,581
-mjgottub,858
+mjgottub,168
 mjhokite,172
 mjikaga,0
 mjkinjas,586
@@ -1466,7 +1466,7 @@ mjnatsu,84
 mjnquest,258
 mjreach1,672
 mjsikaku,642
-mjsister,894
+mjsister,138
 mjuraden,165
 mjyougo,0
 mjyuugi,76
@@ -1593,7 +1593,7 @@ myhero,20
 mysticm,0
 mysticri,752
 mystston,12
-mystwarr,887
+mystwarr,720
 nam1975,243
 nametune,642
 naname,777
@@ -1904,7 +1904,7 @@ promutrv,7
 propcycl,20
 prosoccr,74
 prosport,24
-prtytime,850
+prtytime,44
 psailor1,144
 psailor2,226
 pspikes,41
@@ -1937,7 +1937,7 @@ puzzli,397
 puzzloop,415
 puzznic,200
 pwrgoal,665
-pwrinst2,896
+pwrinst2,533
 pzlbowl,302
 pzloop2,705
 qad,645
@@ -1948,7 +1948,7 @@ qcrayon,650
 qcrayon2,820
 qdrmfgp,1450
 qdrmfgp2,2650
-qgakumon,850
+qgakumon,769
 qgh,733
 qix,84
 qjinsei,600
@@ -1975,7 +1975,7 @@ quizf1,501
 quizhq,49
 quizhuhu,847
 quizkof,243
-quizmeku,888
+quizmeku,917
 quizmoon,546
 quizpani,119
 quiztou,668
@@ -2156,7 +2156,7 @@ sbrkout,0
 scandal,333
 scfinals,807
 schaser,48
-schmeisr,863
+schmeisr,604
 sci,107
 scion,286
 scobra,526
@@ -2197,7 +2197,7 @@ sextriv1,403
 sexyparo,686
 sf,662
 sf1,650
-sf2,850
+sf2,889
 sf2ce,895
 sfa,495
 sfa2,1045
@@ -2281,7 +2281,7 @@ skychut,0
 skydiver,4
 skyfox,0
 skykid,494
-skykiddx,866
+skykiddx,504
 skylancr,708
 skyraid,217
 skyskipr,2
@@ -2338,7 +2338,7 @@ spacefrt,0
 spaceg,9
 spacegun,242
 spaceint,767
-spacelnc,853
+spacelnc,0
 spaceod,22
 spaceskr,181
 spacetrk,0|121
@@ -2610,7 +2610,7 @@ timekill,270
 timelimt,148
 timeplt,270
 timescan,0
-timesold,878
+timesold,862
 timetunl,703
 tinklpit,670|340
 tinstar,62
@@ -2758,7 +2758,7 @@ vaportrx,0
 varth,484
 vasara,154
 vasara2,61
-vastar,880
+vastar,262
 vball,16
 vblokbrk,0
 vbowl,0
@@ -2910,7 +2910,7 @@ zedblade,243
 zektor,0
 zerohour,8
 zeropnt,618
-zeropnt2,855
+zeropnt2,218
 zerowing,228
 zerozone,4
 zigzag,14
