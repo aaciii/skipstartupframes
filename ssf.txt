@@ -1746,7 +1746,7 @@ paradise,137
 parodius,1220
 pass,160
 passsht,4
-pastelg,831
+pastelg,170
 patimono,140|147
 pbaction,632
 pballoon,10
@@ -1968,7 +1968,7 @@ quasar,90
 quester,766|107
 quiz18k,605
 quiz365,406
-quizchq,826
+quizchq,202|177
 quizdai2,243
 quizdais,243
 quizdna,12
@@ -2089,7 +2089,7 @@ rodland,39
 rohga,2
 roishtar,66
 roldfrog,29
-rollerg,807
+rollerg,968
 rollingc,269
 rompers,700|186
 rongrong,373
@@ -2108,7 +2108,7 @@ rshark,462
 rthun2,222
 rthunder,158
 rtriv,431
-rtype,830
+rtype,318
 rtype2,705
 rtypeleo,436
 runaway,25
@@ -2155,7 +2155,7 @@ sbomberb,649
 sbowling,150
 sbrkout,0
 scandal,333
-scfinals,807
+scfinals,554
 schaser,48
 schmeisr,604
 sci,107
@@ -2229,7 +2229,7 @@ shadfrce,971
 shadowld,285|239
 shadoww,1313
 shangha2,239
-shangha3,805
+shangha3,727
 shanghai,354
 shangkid,718
 shangon,600
@@ -2249,7 +2249,7 @@ shocktr2,243
 shocktro,243
 shogwarr,0
 shollow,83
-shootbul,821
+shootbul,177
 shootgal,52
 shootout,3
 shougi,0
@@ -2428,7 +2428,7 @@ ssrj,30
 sss,0
 sstingry,621
 sstrangr,747
-sstrike,801
+sstrike,449
 sstrngr2,747
 stactics,151
 stadhero,598
@@ -2466,7 +2466,7 @@ stoffy,162
 stompin,209
 stonebal,973
 strahl,1060
-stratab,810
+stratab,436
 stratgyx,358
 stratof,847
 streakng,7
@@ -2518,15 +2518,15 @@ survival,12
 susume,2000
 suzuk8h2,52
 suzuka8h,52
-suzume,836
+suzume,119
 svf,136
 svolley,254
 swat,12
 swcourt,622
 swimmer,162
-sws,814
-sws92,827
-sws93,827
+sws,814|43
+sws92,827|57
+sws93,827|57
 sws95,612
 sws96,619
 sws97,552|8
@@ -2626,7 +2626,7 @@ tndrcade,210
 tnexspce,698
 tnk3,451
 tnzs,159
-todruaga,806
+todruaga,199
 toffy,162
 toggle,600
 toki,5
@@ -2741,9 +2741,9 @@ uopoko,521
 upndown,5
 upyoural,21
 usclssic,399
-usg185,804
-usg252,810
+usg185,860
 usg32,686
+usgames,880
 usvsthem,1685
 utoukond,663
 valkyrie,0
@@ -2844,7 +2844,7 @@ wildfang,433
 wildplt,130
 willow,238
 wilytowr,170
-winspike,807
+winspike,932
 winterht,0
 wiping,374
 wits,339
@@ -2883,7 +2883,7 @@ wwjgtin,12
 xenophob,76
 xevi3dg,150
 xevious,734
-xexex,808
+xexex,650
 xmcota,491
 xmen,918
 xmultipl,514
