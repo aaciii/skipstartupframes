@@ -103,7 +103,7 @@ ar_sprg,1746
 ar_xeon,1780
 arabfgt,41
 arabian,57
-arabianm,849
+arabianm,169
 arbalest,131
 arcadecl,540
 archrivl,143
@@ -115,7 +115,7 @@ argusg,0
 arkanoid,500
 arkarea,184
 arknoid2,111
-arkretrn,825
+arkretrn,667
 arlingtn,331
 armedf,335
 armora,266
@@ -134,7 +134,7 @@ astinvad,290
 astorm,0
 astrass,1187
 astrob,0
-astrof,828
+astrof,27
 astyanax,783
 asuka,612
 asurabld,435
@@ -184,7 +184,7 @@ batman,45
 batmanfr,0
 batrider,1256
 batsugun,729
-battlane,845
+battlane,296
 battlcry,116
 battlera,595
 battlex,32
@@ -222,7 +222,7 @@ bigtwin,312
 bijokkog,425
 bijokkoy,425
 bioatack,289
-biofreak,837
+biofreak,1346
 biomtoy,1095
 bionicc,527
 bioship,354
@@ -254,7 +254,7 @@ blktiger,563
 blmbycar,676
 block,789
 blockade,9
-blockcar,802
+blockcar,11
 blocken,822
 blockgal,0
 blockhl,294
@@ -265,7 +265,7 @@ bloodwar,98
 bloxeed,323
 blstroid,30
 blswhstl,384
-bluehawk,802
+bluehawk,23
 blueprnt,38
 blueshrk,16
 blzntrnd,1074
@@ -447,7 +447,7 @@ cninjau,400
 cobracom,25
 colmns97,1199
 colony7,36
-columns,822
+columns,48
 columns2,49
 combasc,571
 combat,0
@@ -543,11 +543,11 @@ dangseed,990|180
 daraku,681
 darius,281
 darius2,555
-dariusg,825
+dariusg,510
 darkedge,0
 darkplnt,45
 darkseal,15
-darktowr,848
+darktowr,262
 darkwar,0
 darwin,256
 dazzler,174
@@ -560,7 +560,7 @@ dbz,15
 dbz2,146
 dbzvrvs,0
 dcclub,813
-dcclubfd,820
+dcclubfd,976
 dcheese,0
 dcon,246
 dday,150
@@ -568,7 +568,7 @@ ddcrew,30
 ddenlovr,534
 ddonpach,1800
 ddp2,1144
-ddragon,819
+ddragon,262
 ddragon2,37
 ddragon3,50
 ddragonu,230
@@ -604,7 +604,7 @@ digdug,710
 digdug2,290
 digger,48
 diggerc,132
-dimahoo,830
+dimahoo,678
 dingo,332
 dino,310
 dinorex,472
@@ -724,7 +724,7 @@ exprraid,269
 extdwnhl,853
 exterm,151
 extrmatn,149
-exvania,835
+exvania,482|196
 exzisus,709
 eyes,107
 f1dream,121
@@ -802,7 +802,7 @@ frenzy,580
 friskyt,732
 frogger,100
 frogs,0
-fromanc2,835
+fromanc2,196
 fromanc4,600
 fromance,421
 fromancr,563
@@ -817,7 +817,7 @@ funnymou,207
 funybubl,48
 futspy,161
 ga2,16
-gaia,842
+gaia,309
 gaiapols,1299
 gakupara,409
 gakusai,35
@@ -861,7 +861,8 @@ gdarius,0
 gdfs,487
 geebee,0
 gekiretu,637
-gekirido,818
+gekiridn,528
+gekiridnj,629
 gemini,783
 genix,123
 genpeitd,324
@@ -878,7 +879,7 @@ ghox,596
 gigandes,113
 gigasb,26
 gigasm2b,26
-gigawing,846
+gigawing,829
 gijoe,320
 gimeabrk,721
 ginganin,36
@@ -924,7 +925,7 @@ greatgun,930
 gridiron,303
 gridlee,22
 grndtour,88
-grobda,833
+grobda,368
 groovef,1231
 groundfx,583
 growl,347
@@ -1058,8 +1059,8 @@ hotrod,1019
 hotshock,66
 hotsmash,633
 hourouki,13
-housemn2,814
-housemnq,813
+housemn2,379
+housemnq,379
 hstennis,224
 htchctch,28
 hunchbak,204
@@ -1134,7 +1135,7 @@ jdreddp,89
 jedi,400
 jitsupro,339
 jituroku,127
-jjack,819
+jjack,8
 jjparad2,33
 jjparads,31
 jjsquawk,108
@@ -1266,7 +1267,7 @@ ldrun,122
 ldrun2,31
 ldrun3,37
 ldrun4,35
-le2,831
+le2,748
 legend,659
 legendos,243
 legion,181
@@ -1286,7 +1287,7 @@ liblrabl,515
 liquidk,214
 livegal,308
 lizwiz,62
-lkage,844
+lkage,66
 llander,3
 lnc,363
 lockload,549
@@ -1312,7 +1313,7 @@ lupin3,336
 lvcards,297
 lvgirl94,158
 lwings,252
-m4,846
+m4,0
 m660,74
 m79amb,36
 mace,431
@@ -1398,7 +1399,7 @@ mermaid,14
 metafox,148
 metalb,281
 metamrph,802
-metlclsh,837
+metlclsh,43
 metlhawk,985|4
 metmqstr,170
 metrocrs,225
@@ -1523,7 +1524,7 @@ mrgoemon,426
 mrjong,271
 mrkougar,33
 mrokumei,247
-mrtnt,841
+mrtnt,0
 mrviking,240
 msbingo,18
 mscoutm,236
@@ -1615,7 +1616,7 @@ ncv2,331|53
 nebulray,60
 neckneck,197
 nekkyoku,444
-nemesis,830
+nemesis,460|487
 nemo,998
 neobattl,360
 neobombe,243
