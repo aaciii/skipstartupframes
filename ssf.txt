@@ -144,7 +144,7 @@ atarifb,0
 ataxx,0
 atehate,136
 atetris,384
-athena,725
+athena,269
 atlantis,3
 atomicp,220
 aurail,452
@@ -152,7 +152,7 @@ av2mj1bb,7651
 av2mj2rg,7661
 avalnche,136
 avengers,621
-avengrgs,713
+avengrgs,0
 avsp,760
 avspirit,22
 avspu,1130
@@ -165,7 +165,7 @@ bagman,11
 bakatono,243
 bakubaku,1197
 bakutotu,515
-balcube,717
+balcube,703
 ballbomb,96
 ballbros,92
 balonfgt,6
@@ -184,7 +184,7 @@ batcir,482
 batman,45
 batmanfr,0
 batrider,1256
-batsugun,729
+batsugun,653
 battlane,296
 battlcry,116
 battlera,595
@@ -242,7 +242,7 @@ blaster,923
 blasto,0
 blastoff,390
 blazeon,359
-blazer,740
+blazer,782|123
 blazstar,243
 bldyror2,0
 blitz,750
@@ -275,7 +275,7 @@ bm2ndmix,8300
 bm4thmix,8450
 bm5thmix,8600
 bm6thmix,8600
-bmaster,719
+bmaster,662
 bmcbowl,341
 bmcompm2,8600
 bmcompmx,8300
@@ -324,7 +324,7 @@ bstars2,243
 btime,0
 btlecity,61
 btlkroad,144
-btoads,700
+btoads,40
 bubblem,292
 bubbles,649
 bubl2000,15
@@ -360,7 +360,7 @@ cannonb,0
 canyon,0
 capbowl,645
 captaven,191
-captcomm,704
+captcomm,691
 carjmbre,1740
 carnevil,1200
 carnival,70
@@ -372,7 +372,7 @@ cavenger,5
 cawing,894
 cbaj,0
 cball,34
-cbasebal,741
+cbasebal,370
 cbdash,9150
 cbtime,9610
 cburnrub,10150
@@ -601,7 +601,7 @@ dharma,197
 diamond,370
 diehard,0
 dietgo,442
-digdug,710
+digdug,481
 digdug2,290
 digger,48
 diggerc,132
@@ -610,7 +610,7 @@ dingo,332
 dino,310
 dinorex,472
 dirtfoxj,0
-disco,731
+disco,48
 diverboy,44
 djboy,617
 dkong,5
@@ -695,7 +695,7 @@ ejihon,0
 elecyoyo,0
 elevator,70
 elim2,538
-elvactr,700
+elvactr,513
 embargo,250
 emeralda,402|122
 empcity,226
@@ -726,7 +726,7 @@ extdwnhl,853
 exterm,151
 extrmatn,149
 exvania,482|196
-exzisus,709
+exzisus,392
 eyes,107
 f1dream,121
 f1en,0
@@ -800,7 +800,7 @@ fpoint,325
 freekick,0
 freeze,4
 frenzy,580
-friskyt,732
+friskyt,549
 frogger,100
 frogs,0
 fromanc2,196
@@ -918,10 +918,10 @@ gpilots,243
 gradius3,861
 gratia,329
 gravitar,60
-grchamp,711
+grchamp,6
 grdforce,1223
 grdians,676
-grdnstrm,722
+grdnstrm,38
 greatgun,930
 gridiron,303
 gridlee,22
@@ -1023,7 +1023,7 @@ hellfire,220
 hero,65
 hexa,5
 hexion,399
-hgkairak,728
+hgkairak,701
 hharry,518
 higemaru,94
 highsplt,0
@@ -1085,7 +1085,8 @@ hypreac2,796
 hypreact,644
 iceclimb,8
 iceclmrj,8
-ichidant,738
+ichir,73
+ichirj,712
 idhimitu,0
 idolmj,32
 idsoccer,260
@@ -1172,14 +1173,14 @@ kaitei,0
 kakumei,683
 kakumei2,641
 kamenrid,287
-kamikcab,729
+kamikcab,5
 kanatuen,135
 kangaroo,56
 kaos,614
 karatblz,18
 karatour,121
 karianx,484
-karnov,707
+karnov,0
 karnovr,243
 kazan,28
 kbash,1001
@@ -1187,7 +1188,7 @@ kchamp,23
 keithlcy,537
 kengo,624
 kick,228
-kickboy,700
+kickboy,235
 kicker,677
 kickgoal,23
 kicknrun,82
@@ -1252,7 +1253,7 @@ ladybug,160
 ladyfrog,106
 ladykill,188
 lagunar,440
-landbrk,704
+landbrk,309
 landmakr,665
 lasso,571
 lastblad,243
@@ -1370,7 +1371,7 @@ matmania,332
 matrim,243
 mausuke,1198
 maxforce,50
-maxrpm,737
+maxrpm,34
 maya,150
 mayday,643
 mayhem,98
@@ -1480,7 +1481,7 @@ mk4,0
 mkeibaou,208
 mladyhtr,164
 mmaiko,241
-mmatrix,734
+mmatrix,596
 mmaulers,1304
 mmaze,194
 mmehyou,124
