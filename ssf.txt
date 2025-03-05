@@ -1613,7 +1613,7 @@ nbashowt,0
 nbbatman,586
 ncombat,243
 ncommand,243
-ncv1,720
+ncv1,325|50
 ncv2,331|53
 nebulray,60
 neckneck,197
@@ -1707,7 +1707,7 @@ orbitron,392
 ordyne,471|60
 orlegend,1086
 orunners,510
-oscar,749
+oscar,827
 osman,44
 otatidai,228
 othellos,1205
@@ -1844,7 +1844,7 @@ pipibibs,615
 pirates,122
 piratetr,0
 pisces,0
-pistoldm,736
+pistoldm,736|148
 pitfall2,13
 pitfight,67
 pitnrun,218
@@ -2011,8 +2011,8 @@ raimais,529
 rainbow,376
 rallybik,517
 rallyx,760
-rambo3,11
-rambo3a,740
+rambo3,122
+rambo3u,515
 rampage,16
 rampart,360
 raphero,99
@@ -2053,7 +2053,7 @@ ribbit,17
 ridger2j,0
 ridgera2,0
 ridgerac,71
-ridgeraj,711
+ridgeracj,697
 ridhero,243
 ridingf,485
 ridleofp,135
@@ -2143,7 +2143,7 @@ samurai,0
 samuraia,89
 sandscrp,607
 sarge,34
-sasuke,714
+sasuke,16
 satansat,140
 saturn,91
 sauro,309
@@ -2181,7 +2181,7 @@ searchar,142
 searchey,119
 seawolf,26
 seawolf2,228
-secolove,740
+secolove,309
 sectionz,294
 seganinj,202
 seicross,608
@@ -2233,7 +2233,7 @@ shadoww,1313
 shangha2,239
 shangha3,727
 shanghai,354
-shangkid,718
+shangkid,521
 shangon,600
 shanhigw,1237
 sharkatt,38
@@ -2256,7 +2256,7 @@ shootgal,52
 shootout,3
 shougi,0
 showdown,1803
-shrike,705
+shrike,622
 shtrider,18
 shuffle,671
 shufshot,583
@@ -2285,7 +2285,7 @@ skydiver,4
 skyfox,0
 skykid,494
 skykiddx,504
-skylancr,708
+skylancr,28
 skyraid,217
 skyskipr,2
 skysmash,302
@@ -2385,7 +2385,7 @@ spinlbrk,196
 spinmast,243
 splash,783
 splat,652
-splatter,707
+splatter,206|151
 splndrbt,228
 spnchout,60
 sprcros2,22
@@ -2429,9 +2429,8 @@ ssriders,319
 ssrj,30
 sss,0
 sstingry,621
-sstrangr,747
+sstrangr,19
 sstrike,449
-sstrngr2,747
 stactics,151
 stadhero,598
 stadhr96,0
@@ -2607,14 +2606,14 @@ thundfox,123
 tickee,0
 tigerh,30
 tigeroad,434
-timber,700
+timber,157
 timecris,0
 timekill,270
 timelimt,148
 timeplt,270
 timescan,0
 timesold,862
-timetunl,703
+timetunl,46
 tinklpit,670|340
 tinstar,62
 titlef,13
@@ -2681,7 +2680,7 @@ troangel,41
 trog,411
 trojan,20
 tron,86
-trstar,701
+trstar,293
 truco,1077
 trucocl,6
 truxton,676
@@ -2695,7 +2694,7 @@ tsamurai,50
 tshingen,52
 tshoot,776
 ttmahjng,119
-tturf,700
+tturf,394
 tubep,438
 tugboat,2
 tumblep,1
@@ -2732,7 +2731,7 @@ ufosensi,7
 ultennis,873
 ultraman,1218
 ultramhm,55
-ultratnk,741
+ultratnk,8
 ultrax,372
 umanclub,271
 undrfire,359
@@ -2875,7 +2874,6 @@ ws,689|106
 wseries,276
 wsf,121
 wtennis,0
-wwally,720
 wwallyj,716
 wwestern,370
 wwfmania,296
