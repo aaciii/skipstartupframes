@@ -62,6 +62,7 @@ alexkidd,13
 alibaba,0
 alien3,45
 aliens,430
+aliensec,169
 aliensyn,376
 aligator,107
 alleymas,509
@@ -175,7 +176,6 @@ bang,811
 bangball,192
 bangbead,243
 bankp,113
-baraduke,679
 barricad,17
 barrier,186
 basebal2,237
@@ -252,7 +252,7 @@ blkheart,91
 blkhole,0
 blkpnthr,518
 blktiger,563
-blmbycar,676
+blmbycar,655
 block,789
 blockade,9
 blockcar,11
@@ -467,7 +467,7 @@ coolpool,1367
 cop01,125
 copsnrob,0
 cosmccop,498
-cosmica,689
+cosmica,0
 cosmicg,639
 cosmo,65
 cosmogng,0
@@ -789,7 +789,7 @@ flstory,290
 flyball,378
 flyboy,38
 flytiger,144
-fncywld,672
+fncywld,368
 fnkyfish,0
 foodf,0
 footchmp,209
@@ -920,7 +920,7 @@ gratia,329
 gravitar,60
 grchamp,6
 grdforce,1223
-grdians,676
+grdians,515
 grdnstrm,38
 greatgun,930
 gridiron,303
@@ -930,7 +930,7 @@ grobda,368
 groovef,1231
 groundfx,583
 growl,347
-grudge,661
+grudge,553
 gseeker,426
 gslgr94u,474
 gslugrsj,492
@@ -970,7 +970,7 @@ gunforce,609
 gunfront,265
 gunlock,498
 gunmast,211
-gunnail,671
+gunnail,149
 gunsmoke,544
 gururin,243
 gutsn,84
@@ -1030,7 +1030,7 @@ highsplt,0
 hiimpact,1044
 hippodrm,2
 histryma,37
-hitice,653
+hitice,332
 hitme,0
 hitnmiss,0
 hkagerou,412
@@ -1047,7 +1047,7 @@ hopmappy,40
 hopprobo,82
 horekid,302
 horizon,0
-horshoes,673
+horshoes,647|768
 hotblock,329
 hotchase,1044
 hotdebut,325
@@ -1067,7 +1067,7 @@ htchctch,28
 hunchbak,204
 huncholy,73
 hustle,0
-hustler,681
+hustler,230
 hvnsgate,512
 hvoltage,286
 hvymetal,2845
@@ -1116,7 +1116,7 @@ invds,55|180
 invho2,349
 invinco,349
 invrvnge,352
-ipminvad,698
+ipminvad,31
 iqblock,77
 irobot,16
 ironhors,226
@@ -1170,7 +1170,7 @@ kaguya,266
 kaguya2,297
 kaiserkn,401
 kaitei,0
-kakumei,683
+kakumei,74
 kakumei2,641
 kamenrid,287
 kamikcab,5
@@ -1194,7 +1194,7 @@ kickgoal,23
 kicknrun,82
 kickoff,20
 kickridr,4
-kidniki,672
+kidniki,0
 kikcubic,359
 kikikai,506
 kikstart,132
@@ -1270,11 +1270,11 @@ ldrun2,31
 ldrun3,37
 ldrun4,35
 le2,748
-legend,659
+legend,151
 legendos,243
 legion,181
 legionna,15
-lemmings,675
+lemmings,161
 lemnangl,0
 leprechn,23
 lethalen,0
@@ -1340,7 +1340,7 @@ magmax,266
 magspot,33
 magspot2,33
 mahmajn,610
-mahmajn2,667
+mahmajn2,628
 mahoudai,393
 mahretsu,243
 maiko,241
@@ -1418,14 +1418,13 @@ mgcrystl,140
 mgion,367
 mgmen89,211
 mgolf,38
-mhavoc,690
+mhavoc,155
 mhgaiden,221
 mhhonban,344
 mia,624
 midres,8
 miexchng,243
 mightguy,204
-mightybj,664
 mikie,723
 milliped,30
 mimonkey,79
@@ -1467,7 +1466,7 @@ mjlstory,354
 mjnanpas,168
 mjnatsu,84
 mjnquest,258
-mjreach1,672
+mjreach1,411
 mjsikaku,642
 mjsister,138
 mjuraden,165
@@ -1515,7 +1514,7 @@ mp_soni2,333
 mp_sonic,280
 mp_sor2,261
 mp_twc,287
-mpangj,684
+mpang,510
 mpatrol,9
 mplanets,980|920
 mrdo,547
@@ -1578,7 +1577,7 @@ mtlchamp,1341
 mtrap,1984
 mtwins,537
 mugsmash,426
-multchmp,657
+multchmp,766
 musobana,415
 mustache,302
 mustang,26
@@ -1675,6 +1674,7 @@ ntopstar,173
 numanath,478
 nunchaku,30
 nvs_machrider,0|2
+nvs_mightybj,12
 nwarr,495
 nycaptor,308
 nyny,211
@@ -1693,7 +1693,7 @@ olibochu,93
 omega,40
 omegaf,0
 omegrace,0
-omotesnd,677
+omotesnd,301
 oneshot,76
 onetwo,375
 onna34ro,52
