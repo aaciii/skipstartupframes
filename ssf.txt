@@ -925,6 +925,7 @@ grdnstrm,38
 greatgun,930
 gridiron,303
 gridlee,22
+grindstm,681
 grndtour,88
 grobda,368
 groovef,1231
@@ -1725,7 +1726,7 @@ ozon1,3
 p47,1532
 p47aces,286
 pacapp,586
-pachiten,656
+pachiten,142
 pacland,158
 pacman,300
 pacmania,120
@@ -1759,7 +1760,7 @@ pblbeach,0
 pbobbl2n,243
 pbobble,260
 pbobble2,517
-pbobble3,695
+pbobble3,697
 pbobble4,947
 pbobblen,243
 pc_1942,411
@@ -1885,7 +1886,7 @@ popnpop,501
 popper,154
 porky,244
 portrait,156
-potopoto,680
+potopoto,665
 poundfor,679
 pow,1018
 powerdrv,74
@@ -1898,7 +1899,7 @@ preisle2,243
 prikura,1180
 primglex,0
 primrag2,0
-primrage,679
+primrage,132
 prmrsocr,580
 profpac,1035
 progear,940
@@ -1981,7 +1982,7 @@ quizkof,243
 quizmeku,917
 quizmoon,546
 quizpani,119
-quiztou,668
+quiztou,695|116
 quiztvqq,176
 qwak,195
 qzchikyu,186
@@ -2103,7 +2104,6 @@ roundup5,446
 route16,58
 royalmah,0
 rpatrolb,157
-rranger,684
 rrreveng,998
 rsgun,1197
 rshark,462
@@ -2197,9 +2197,8 @@ senknow,1007
 senkyu,22
 sentetst,0
 sextriv1,403
-sexyparo,686
-sf,662
-sf1,650
+sexyparo,808
+sf,794
 sf2,889
 sf2ce,895
 sfa,495
@@ -2208,7 +2207,7 @@ sfa3,727
 sfchamp,0
 sfex,447
 sfex2,694
-sfex2p,694
+sfex2p,928
 sfexp,451
 sfiii,0
 sfiii2,0
@@ -2258,7 +2257,7 @@ shougi,0
 showdown,1803
 shrike,622
 shtrider,18
-shuffle,671
+shuffle,47
 shufshot,583
 shuuz,297
 sia2650,498
@@ -2315,7 +2314,7 @@ soccerss,1084
 sokonuke,420
 sokyugrt,0
 solarfox,248
-solarq,687
+solarq,81
 soldamj,428
 soldivid,657
 solfigtr,114
@@ -2399,6 +2398,7 @@ spyhunt2,116
 sqbert,352
 sqix,686
 sraider,8
+sranger,186
 srdarwin,530
 srdmissn,102
 srmp2,0
@@ -2455,11 +2455,11 @@ startrek,2
 starwars,0
 statriv2,0
 statriv4,3
-stdragon,660
+stdragon,677
 steeltal,499
 stg,0
 stinger,260
-stkclmns,695
+stkclmns,127
 stlforce,13
 stmblade,73
 stocker,598
@@ -2585,7 +2585,7 @@ tetris,379
 tetrisp,569
 tetrisp2,499
 tfrceac,95
-tgmj,679
+tgmj,610
 tgtball,59
 tharrier,32
 thedeep,552
@@ -2624,7 +2624,7 @@ tmmjprd,606
 tmnt,606
 tmnt2,248
 tndrcade,210
-tnexspce,698
+tnextspc,548
 tnk3,451
 tnzs,159
 todruaga,199
@@ -2633,7 +2633,7 @@ toggle,600
 toki,5
 tokio,3
 tokisens,3
-tokkae,651
+tokkae,1012
 tokyogal,152
 tomahawk,19
 tondemo,113
@@ -2683,7 +2683,7 @@ tron,86
 trstar,293
 truco,1077
 trucocl,6
-truxton,676
+truxton,324
 truxton2,814
 trvchlng,14
 trvgns,44
@@ -2768,7 +2768,6 @@ vcircle,393
 vendetta,380
 venture,1731
 vf,205
-vfive,693
 vfkids,1226
 vgoalsoc,0
 vhunt2,1120
@@ -2826,7 +2825,7 @@ wbbc97,41
 wbeachvl,580
 wbml,161
 wboy,257
-wcatcher,671
+wcatcher,206
 wcbowl,145
 wcbowldx,347
 wecleman,382
@@ -2888,7 +2887,7 @@ xmcota,491
 xmen,918
 xmultipl,514
 xmvsf,492
-xorworld,683
+xorworld,609
 xsleena,109
 xtheball,358
 xxmissio,433
