@@ -17,14 +17,17 @@ The plugin temporarily unthrottles :fast_forward: the framerate of a game at sta
 1. :arrow_down_small: Download `skipstartupframes.zip` from the [latest release](https://github.com/Jakobud/skipstartupframes/releases)
 2. :open_file_folder: Unzip the file into the MAME `plugins` directory
    - Example: `c:\mame\plugins\skipstartupframes\`
-3. :point_right: Enable the plugin in one of the following ways:
 
-   - Enable `Skip Startup Frames` in MAME's Plugin Menu (Restarting MAME may be required)
-   - Add `skipstartupframes` to the `plugin` option in `mame.ini`
-   - Enable `skipstartupframes` in `plugin.ini`
-   - Run MAME with the command-line option `-plugin skipstartupframes`
+:+1: The plugin will automatically be enabled when you start MAME.
 
-   ![MAME plugin toggle menu](media/plugin-menu.jpg)
+If necessary you can enable the plugin one of the following ways:
+
+- Enable `Skip Startup Frames` in MAME's Plugin Menu (Restarting MAME may be required)
+- Add `skipstartupframes` to the `plugin` option in `mame.ini`
+- Add `skipstartupframes 1` to `plugin.ini`
+- Run MAME with the command-line option `-plugin skipstartupframes`
+
+![MAME plugin toggle menu](media/plugin-menu.jpg)
 
 ## :heavy_check_mark: Requirements
 
@@ -53,7 +56,7 @@ Skip Startup Frames is not a new concept and not my idea. It was originally a MA
 
 | In-Game Plugin Options Menu               |                                                               |
 | ----------------------------------------- | ------------------------------------------------------------- |
-| ![Mame In-Game Menu](media/game-menu.png) | ![Skip Startup Frames Options](media/plugin-options-menu.jpg) |
+| ![MAME In-Game Menu](media/game-menu.png) | ![Skip Startup Frames Options](media/plugin-options-menu.jpg) |
 
 - `Black out screen during startup` - _Yes/No_
 
@@ -71,16 +74,14 @@ Skip Startup Frames is not a new concept and not my idea. It was originally a MA
   - If a rom is a clone and is not found in `ssf.txt`, fallback to using the parent rom's startup frames (if they exist) in `ssf.txt`.
   - Default: `Yes`
 
-- `Debug Mode` - _Yes/No_
+- `Show Frames` - _Yes/No_
 
-  - Enable debug mode to show frame numbers in game in order to help determine accurate startup frame values to use for roms.
-  - A soft reset will be required to enable debug mode. Once enabled, debug mode can be toggled on/off.
+  - Show frame numbers in game in order to help determine accurate startup frame values to use for roms.
   - Default: `No`
 
-- `Slow Motion during Debug Mode` - _Yes/No_
+- `Slow Motion` - _Yes/No_
 
-  - Used to slowdown game speed/playback while in debug mode.
-  - Can be toggled on/off during debug mode.
+  - Used to slowdown game speed/playback to 30% of normal speed. This is to make it easier to find ideal frame values during startup.
   - Default: `No`
 
 - `Normal startup frames` - _Frame Number_
@@ -98,13 +99,13 @@ Skip Startup Frames is not a new concept and not my idea. It was originally a MA
   - Frames to skip for the current game when a soft reset occurs
   - If edited, this value will be saved to `ssf_custom.txt`
 
-## :desktop_computer: Debug Mode
+## :desktop_computer: Show Frames and Slow Motion
 
-If you wish to adjust the number of startup frames to be skipped for a game, there is a "debug mode" that will facilitate determining accurate frame numbers. It displays the frame numbers on the screen and can optionally set the game in slow-motion.
+If you wish to adjust the number of startup frames to be skipped for a game, there are "Show Frames" and "Slow Motion" options that will facilitate determining accurate frame numbers. It displays the frame numbers on the screen and slows down the game speed to 30% of normal.
 
 See the **Options section** for more details.
 
-![Skip Startup Frames Debug Mode](media/debug.gif)
+![Skip Startup Frames Show Frames Option](media/show_frames.gif)
 
 ## :page_facing_up: License
 

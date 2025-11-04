@@ -2,6 +2,18 @@
 
 ## [Unreleased]
 
+## [v3.0.0] - 2025-11-03
+
+- Set plugin to be enabled automatically when installing
+- Changed "Debug" option to "Show Frames"
+- Changed "Debug Slow Motion" option to "Slow Motion"
+- Slow Motion option now works whether or not you are using the Show Frames option
+- Improved and simplified frame processing logic
+- Improved backwards compatibility with older MAME versions
+- Changed configuration to be .ini based
+- Added verbose console messages
+- 53 updates to ssf.txt. 40.10% checked. (1173 of 2925)
+
 ## [v2.3.0] - 2025-09-24
 
 - Updated values in ssf.txt. 38.06% checked. (1113 of 2924)
@@ -50,7 +62,8 @@
 
 - First release.
 
-[unreleased]: https://github.com/Jakobud/skipstartupframes/compare/v2.3.0...develop
+[unreleased]: https://github.com/Jakobud/skipstartupframes/compare/v3.0.0...develop
+[v3.0.0]: https://github.com/Jakobud/skipstartupframes/releases/tag/v3.0.0
 [v2.3.0]: https://github.com/Jakobud/skipstartupframes/releases/tag/v2.3.0
 [v2.2.0]: https://github.com/Jakobud/skipstartupframes/releases/tag/v2.2.0
 [v2.1.0]: https://github.com/Jakobud/skipstartupframes/releases/tag/v2.1.0
