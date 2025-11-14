@@ -1734,7 +1734,7 @@ pacland,158
 pacman,300
 pacmania,120
 pacnpal,803
-pacplus,292
+pacplus,300
 paddlema,363
 pairlove,189
 pairs,178
@@ -2017,7 +2017,7 @@ rallybik,517
 rallyx,760
 rambo3,122
 rambo3u,515
-rampage,16
+rampage,30
 rampart,360
 raphero,99
 rastan,11
@@ -2073,7 +2073,7 @@ rmhaihai,73
 rmhaijin,77
 rmhaisei,73
 rmpgwt,414
-roadblst,290
+roadblst,550
 roadf,423
 roadriot,767
 roadrunn,80
@@ -2090,7 +2090,7 @@ rockmanj,460
 rockn,96
 rockrage,218
 rocktrv2,1074
-rocnrope,380
+rocnrope,420
 rodland,39
 rohga,2
 roishtar,66
@@ -2136,7 +2136,7 @@ safari,0
 safarir,2
 sailormn,1969
 sailorws,199
-salamand,465
+salamand,473
 salmndr2,1416
 samsho,243
 samsho2,243
@@ -2379,7 +2379,7 @@ speedspn,131
 spelunk2,19
 spelunkr,106
 spf2t,901
-spiders,387
+spiders,900
 spidey,340
 spidman,10
 spiker,569
@@ -2487,7 +2487,7 @@ strtdriv,0
 strtheat,0
 strvmstr,8
 stunrun,180
-subroc3d,140
+subroc3d,200
 subs,0
 sucasino,154
 suchipi,421
